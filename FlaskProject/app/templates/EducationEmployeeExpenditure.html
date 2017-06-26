@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+    <font size="5"><div><p><b> Education expenditure in England(All data in GBP(000)) </b></p></div></font>
+<table>
+  <tr>
+    <th>Academic Year</th>
+    <th>Expenditure in England</th>
+    <th>Min Expenditure for All English Regions</th>
+    <th>Mean Expenditure for All English Regions</th>
+    <th>Max Expenditure for All English Regions</th>
+  </tr>
+    {% for post in posts %}
+  <tr>
+    <td>{{ post.Period_label}}</td>
+    <td>{{ post.England}}</td>
+    <td>{{ post.Minimum_english_regions}}</td>
+    <td>{{ post.Mean_english_regions}}</td>
+    <td>{{ post.Maximum_english_regions}}</td>
+  </tr>
+    {% endfor %}
+</table>
+{% endblock %}

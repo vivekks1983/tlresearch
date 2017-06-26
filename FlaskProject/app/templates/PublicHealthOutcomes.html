@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+    <font size="5"><div><p><b> Healthy life expectancy at birth</b></p></div></font>
+<table>
+  <tr>
+    <th>Denominator</th>
+    <th>Upper CI Limit</th>
+    <th>Compared to England value</th>
+    <th>Value</th>
+    <th>Count</th>
+    <th>Category</th>
+    <th>Time Period</th>
+    <th>Lower CI Limit</th>
+  </tr>
+    {% for post in posts %}
+  <tr>
+    <td>{{ post.Denominator}}</td>
+    <td>{{ post.Upper_CI_limit}}</td>
+    <td>{{ post.Compared_to_England_value_or_percentiles}}</td>
+    <td>{{ post.Value}}</td>
+    <td>{{ post.Count}}</td>
+    <td>{{ post.Category}}</td>
+    <td>{{ post.Time_period}}</td>
+    <td>{{ post.Lower_CI_limit}}</td>
+  </tr>
+    {% endfor %}
+</table>
+{% endblock %}
