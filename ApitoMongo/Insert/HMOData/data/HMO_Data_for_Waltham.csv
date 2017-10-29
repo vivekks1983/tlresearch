@@ -1,0 +1,184 @@
+duration,houseno,street,Location,Postcode,licenceholdername,floors,livingrooms,bedrooms,kitchens,scflats,nonsc,nohouseholds,Permittedoccupants,washhandbasin,baths,showers,wc,dateissued
+5,17,Melbourne Road,Walthamstow,E17 6LR,Murat Alma,3,0,5,1,0,5,5,7,2,1,1,2,01/09/2010
+5,207,Lea Bridge Road,Leyton,E10 7PN,Mr Inanc Elitok,3,0,7,2,0,7,7,10,2,2,0,2,03/09/2010
+5,41,Ulverston Road,Walthamstow,E17 4BN,Mr Arshad Mahmood,3,1,5,1,0,5,5,5,3,0,2,3,10/09/2010
+5,385,Grove Green Road,Leytonstone,E11 4AQ,Mr Bruno Andrade Goncalves,4,1,5,1,0,5,5,7,3,2,1,3,10/09/2010
+5,119,Norman Road,Leytonstone,E11 4RJ,Ms Swee Beh,4,0,6,1,0,6,6,6,2,1,1,2,10/09/2010
+5,93,Frith Road,Leytonstone,E11 4EX,Ms Sabina Akhtar,3,1,4,1,0,4,4,5,2,1,1,2,13/09/2010
+5,6,Flempton Road,Leyton,E10 7NH,Mr Huseyin Ustek,3,0,5,1,0,5,5,5,2,0,2,2,30/09/2010
+5,17,Melford Road,Leytonstone,E11 4PR,Mr Imran Ahmad,4,1,4,3,0,4,4,6,3,0,3,3,06/10/2010
+5,79,Pearl Road,Walthamstow,E17 4QY,Mr Amarjit Phull,3,1,5,1,0,5,5,5,3,0,3,3,07/10/2010
+5,161,Ramsay Road,Forest Gate,E7 9EP,Mr Noel Charles,3,0,5,1,0,5,5,6,2,2,0,2,07/10/2010
+5,163,Ramsay Road,Forest Gate,E7 9EP,Mr Noel Charles,3,0,5,1,0,5,5,6,2,2,0,2,07/10/2010
+5,37,Langthorne Road,Leytonstone,E11 4HL,Mr Ayub Matak,3,0,7,1,0,7,7,8,2,2,0,2,18/10/2010
+5,111,Calderon Road,Leytonstone,E11 4ET,Mr Mukeshbhai Patel,3,0,5,1,0,5,5,5,2,0,2,2,29/10/2010
+5,1,Hatherley Road,Walthamstow,E17 6SE,Mr Chris Danaher,3,0,5,1,1,4,5,5,3,1,1,3,29/10/2010
+5,14,Melville Road,Walthamstow,E17 6QT,Mr Alan Marcellis,3,0,7,2,0,0,8,11,2,2,0,2,17/11/2010
+5,9,Scholars Road,Chingford,E4 7HH,Mr Bassim Salam,3,0,5,1,0,3,5,5,2,0,2,2,19/11/2010
+5,33,Folkestone Road,Walthamstow,E17 9SD,Mr Lahrie Mohamed,3,1,8,1,0,3,5,5,3,0,2,3,23/11/2010
+5,35,Folkestone Road,Walthamstow,E17 9SD,Mr Lahrie Mohamed,4,1,7,1,0,5,5,5,2,2,0,2,24/11/2010
+5,1a,Blenheim Road,Stratford,E15 1UF,Mr Fidelis Okoro,3,1,5,1,0,5,5,5,3,1,1,3,25/11/2010
+5,230a,Chingford Mount Road,Chingford,E4 8JL,Mr Mahmut Capar,3,0,4,1,0,0,5,5,1,0,1,1,02/12/2010
+5,69,Church Hill,Walthamstow,E17 3BD,Mr Humayan Siddiq,3,0,9,1,0,9,9,10,2,1,1,2,08/12/2010
+5,13,Grove Green Road,Leytonstone,E11 4EG,Mr Syed Sameer Abbas Rizvi,4,0,6,1,0,6,6,9,2,2,0,2,14/12/2010
+5,145,High Street,Walthamstow,E17 7BX,Patel,3,1,10,1,1,9,10,10,4,3,2,4,20/12/2010
+5,307,Church Road,Leyton,E10 7JG,Mr Mohammed Bostan,4,0,7,1,0,0,7,10,4,2,2,4,29/12/2010
+5,21,Cranbourne Road,Stratford,E15 2DB,Mr Stephen Wigmore,3,0,5,1,0,5,5,5,1,1,0,1,27/01/2011
+5,24-25,Church Lane,Leytonstone,E11 1HG,Mr Yasser Akram,3,1,6,1,0,3,6,10,2,2,0,2,29/03/2011
+5,26-27,Church Lane,Leytonstone,E11 1HG,Mr Yasser Akram,3,0,7,1,0,7,7,10,1,1,0,2,29/03/2011
+5,91,St Marys Road,Leyton,E10 5RE,Liaquat Ali Khan,3,0,5,1,0,5,5,8,2,1,1,2,04/05/2011
+5,10,Lynmouth Road,Walthamstow,E17 8AF,Mr Youzmetin Emin,3,1,6,3,2,4,5,6,6,0,6,7,10/05/2011
+5,98,High Road Leyton,Stratford,E15 2BX,Mr Sahin Tasyurdu,3,0,3,1,0,0,5,5,1,1,1,1,01/07/2011
+5,100,High Road Leyton,Stratford,E15 2BX,Mr Sahin Tasyurdu,3,0,3,1,0,3,3,5,1,0,1,1,12/08/2011
+5,374,Forest Road,Walthamstow,E17 5JF,Lai Fan CHONG,3,0,7,1,0,7,7,10,4,2,0,3,12/08/2011
+5,230,High Road Leytonstone,Leytonstone,E11 3HU,Mr Faruque Hussain Gani,3,0,5,2,0,0,5,7,0,0,0,0,05/09/2011
+5,12,Park Grove Road,Leytonstone,E11 4PU,Pervaiz Azim,3,0,5,1,0,0,5,5,2,2,0,2,13/09/2011
+5,2,Essex Road South,Leytonstone,E11 1JR,Mr Anwar Jilani,3,1,8,4,3,3,6,9,4,0,4,4,06/10/2011
+5,4,Prospect Hill,Walthamstow,E17 3EL,Jacqui Walaker-Daley,4,0,7,1,0,7,7,7,4,2,2,4,10/10/2011
+5,29,Fulready Road,Leyton,E10 6DT,Mr Tony Theori,3,1,4,1,0,4,4,5,2,1,1,2,03/11/2011
+5,62,Elm Road,Leytonstone,E11 4DW,Adeline Proctoer,3,0,4,1,0,0,4,5,1,1,0,1,02/03/2012
+5,29,West End Avenue,Leyton,E10 6DY,Mrs Sultana Nighat,3,0,8,2,0,0,8,10,2,1,1,2,16/03/2012
+5,117,Calderon Road,Leytonstone,E11 4ET,Mr Ahmed Sheikh,3,1,5,1,0,5,5,5,1,1,0,1,13/06/2012
+5,200a,High Street,Walthamstow,E17 7JH,Mr Arif Ali,2,0,4,1,0,4,4,5,1,0,1,1,22/06/2012
+5,186a,High Street,Walthamstow,E17 7JH,Mr Mazafar Iqbal,3,0,5,1,0,5,5,6,2,0,5,2,03/07/2012
+5,147a,High Street,Walthamstow,E17 7BX,Mr Herbert Parsons,3,0,5,1,0,5,5,9,2,1,1,2,04/07/2012
+5,145b,High Street,Walthamstow,E17 7BX,Mr Herbert Parsons,3,0,5,1,0,5,5,5,2,2,0,2,04/07/2012
+5,149a,High Street,Walthamstow,E17 7BX,Mr Richard Parsons,3,0,5,1,0,5,5,5,2,1,1,1,04/07/2012
+5,114,Hoe Street,Walthamstow,E17 4QR,Mr Edine Kaci,3,0,5,1,0,0,5,5,1,0,2,1,06/07/2012
+5,116a,Hoe Street,Walthamstow,E17 4QR,Mr Nassim Kaci,3,0,5,1,0,0,5,5,2,2,0,2,06/07/2012
+5,118a,Hoe Street,Walthamstow,E17 4QR,Mr Nassim Kaci,3,0,5,1,0,0,5,5,2,1,1,1,06/07/2012
+5,20,Pretoria Road,Chingford,E4 7HA,Mr Bassim Salam,3,0,6,1,0,6,6,12,5,0,4,4,06/07/2012
+5,180,Langthorne Road,Leytonstone,E11 4HS,Mr Nadeem Butt,3,0,7,1,0,0,5,5,3,0,3,3,06/07/2012
+5,2,Hawthorne Road,Walthamstow,E17 4QB,Mr Savant,3,0,5,2,0,0,5,8,2,1,2,2,06/07/2012
+5,301,Murchison Road,Leyton,E10 6LT,Mussadiq Hussain,3,1,7,1,0,7,7,10,6,1,3,6,09/11/2012
+5,303,Murchison Road,Leyton,E10 6LT,Mussadiq Hussain,3,1,8,2,0,0,6,8,6,3,3,6,09/11/2012
+5,297,Murchison Road,Leyton,E10 6LT,Mr Abdul Rashid,3,1,8,1,0,7,6,10,2,0,2,2,22/11/2012
+5,14,Morley Road,Leyton,E10 6LL,Mr Mfakazi Ndebele,3,1,6,2,1,5,6,7,3,2,1,3,30/11/2012
+5,2,Boscombe Avenue,Leyton,E10 6HY,Naveed Choudhary,3,1,12,2,0,12,14,15,4,1,2,4,03/12/2012
+5,85,Grange Park Road,Leyton,E10 5ER,Adnan Karim,3,0,6,2,0,6,6,8,4,1,2,3,04/12/2012
+5,36,Connaught Road,Leytonstone,E11 4AB,Mr Sajjad Rahmano,4,0,6,1,0,6,6,8,3,2,1,3,03/01/2013
+5,22,Calderon Road,Leytonstone,E11 4EU,Mr Sulaiman Khan,3,0,6,1,0,6,6,6,2,1,1,2,09/01/2013
+5,37,Gloucester Road,Walthamstow,E17 6AE,Mr Shujah Shah,3,0,5,1,0,5,5,8,2,1,1,2,23/01/2013
+5,24,Havant Road,Walthamstow,E17 3JF,Mahendra Rambujun,3,0,4,1,0,0,5,6,2,2,0,2,29/01/2013
+5,9,Clarendon Road,Leytonstone,E11 1BZ,Dharampal Manku,3,0,7,1,0,0,6,10,2,2,0,2,22/02/2013
+5,1b,Copeland Road,Walthamstow,E17 9DB,Caroline Allotey Annan,3,0,5,2,0,1,7,7,3,1,0,3,22/02/2013
+5,160,High Road Leytonstone,Stratford,E15 1UA,Mr Mohammed Yousaf,3,0,6,6,6,0,6,6,6,0,6,7,01/03/2013
+5,10,Newport Road,Walthamstow,E17 7ED,Mr Lian Yuanaqi,3,0,7,2,0,7,7,9,3,0,1,3,13/03/2013
+5,5,Acacia Road,Walthamstow,E17 8BN,Stephen Bond,3,2,6,1,0,6,6,6,4,0,4,4,13/03/2013
+5,14,Woodlands Road,Walthamstow,E17 3LE,Mr Georghios Stratis,3,0,4,1,0,4,4,5,2,1,1,2,10/04/2013
+5,38,Calderon Road,Leytonstone,E11 4EU,Mr Necati Kutlu,3,0,8,1,0,1,10,10,3,1,2,3,10/04/2013
+5,158,Essex Road,Leyton,E10 6BT,Tony Theori,3,0,6,1,0,0,6,0,3,3,0,3,22/05/2013
+5,17,Norton Road,Leyton,E10 7LQ,Mr Ali Khurram,3,0,5,1,0,5,5,6,2,1,0,2,30/05/2013
+5,37,Gloucester Road,Walthamstow,E17 6AE,Mr Shujah Shah,3,0,5,1,0,5,5,8,2,1,1,2,05/06/2013
+5,50,Peterborough Road,Leyton,E10 6DL,Delores Coombs,3,1,5,1,0,1,5,5,2,2,0,1,19/06/2013
+5,24,Leslie Road,Leytonstone,E11 4HG,Mr Fai Lee,3,0,7,1,0,0,7,13,7,0,7,7,25/06/2013
+5,20,Palmerston Road,Walthamstow,E17 6PD,Bill Marko,3,0,4,1,0,0,6,6,2,1,0,1,25/06/2013
+5,485,Forest Road,Walthamstow,E17 5LD,Mrs Processa Prado,3,1,7,2,0,7,7,7,3,1,2,3,25/06/2013
+5,1,Palmerston Road,Walthamstow,E17 6PQ,Mr Bob Wheatley,3,1,6,4,0,6,6,10,8,1,1,2,26/06/2013
+5,21,Primrose Road,Leyton,E10 5EE,Sian Thomas,3,1,6,1,0,0,6,6,2,2,0,2,26/06/2013
+5,5,Palmerston Road,Walthamstow,E17 6PQ,Mr Robert Wheatley,3,0,6,1,0,6,6,9,3,1,1,2,03/07/2013
+5,42,West End Avenue,Leyton,E10 6DZ,Mrs Nadia Mehmood,3,1,8,1,0,1,8,9,3,2,0,3,05/08/2013
+5,24,Forest Drive West,Leytonstone,E11 1LA,Ruth Ernestine Manford,4,0,7,7,3,4,7,10,5,8,3,5,04/09/2013
+5,80,Dawlish Road,Leyton,E10 6QD,Jamal Adbul Nasir Iqbal,3,1,5,1,0,0,5,9,2,1,1,2,24/09/2013
+5,28,Grove Green Road,Leytonstone,E11 4EJ,Mr and Mrs Vasconcelos,3,1,6,2,0,6,6,10,3,3,0,3,16/10/2013
+5,2,Longfield Avenue,Walthamstow,E17 7DP,Howard Joseph,3,1,8,3,1,7,8,9,3,2,0,2,16/10/2013
+5,8,St James Street,Walthamstow,E17 7PF,Mr joemeryl obcena,3,0,5,1,0,5,5,5,2,1,1,2,14/11/2013
+5,92,North Birkbeck Road,Leytonstone,E11 4JQ,Mr Patrick O'Hea,3,1,5,1,0,5,5,5,1,1,0,1,03/12/2013
+1,692,High Road Leytonstone,Leytonstone,E11 3AA,Mr Joseph Turner,3,0,10,2,0,0,10,10,2,0,2,2,18/12/2013
+5,65,St Mary Road,Walthamstow,E17 9RF,Mr MOHAMMED SHABIR,3,2,6,1,0,6,5,7,2,1,0,2,30/12/2013
+5,326a,Grove Green Road,Leytonstone,E11 4EA,Mr Peter Charalambous,3,0,5,5,0,5,5,7,1,1,0,1,17/01/2014
+5,31,Roland Road,Walthamstow,E17 9HN,Mr Kashef Elahi,2,0,6,1,0,0,7,6,3,1,2,3,17/01/2014
+5,149,Norman Road,Leytonstone,E11 4RJ,Gianluca Colini,3,1,8,1,0,0,7,7,3,2,1,3,20/01/2014
+5,259,Church Road,Leyton,E10 7BQ,Mr Abdallah Asran,3,0,7,2,0,7,7,7,2,1,1,2,27/01/2014
+5,44,St Marys Road,Leyton,E10 5RB,Mr Necati Kutlu,4,1,6,2,0,6,6,10,3,2,0,3,27/01/2014
+5,169a,Shernhall Street,Walthamstow,E17 9HX,Chitak Patel,2,0,7,2,0,0,6,6,2,1,1,2,03/02/2014
+5,372a,Forest Road,Walthamstow,E17 5JF,Mr Anthony Ehrenzweig,3,0,6,1,0,6,6,6,1,1,0,1,04/02/2014
+5,198,Hainault Road,Leytonstone,E11 1EP,Mr Chen Bharj,3,1,7,2,0,7,7,10,2,1,0,2,10/02/2014
+5,71,Wallwood Road,Leytonstone,E11 1AY,Mr Antonis Theori,3,0,8,8,0,8,8,8,4,4,0,4,11/02/2014
+5,69,Wallwood Road,Leytonstone,E11 1AY,Mr Antois Theori,3,0,9,9,6,3,9,16,8,2,6,8,11/02/2014
+5,,Woodford New Road,Walthamstow,E17 3PS,Ana Cristina Coward,3,1,3,2,0,0,5,5,2,1,0,1,26/02/2014
+5,131,Hainault Road,Leytonstone,E11 1DT,Mr Richard Rains,3,0,7,7,0,7,7,11,5,5,0,5,19/03/2014
+5,226,Vicarage Road,Leyton,E10 7HJ,Mr Christopher Thrasivoulou,4,0,8,1,0,8,8,10,2,1,1,2,01/04/2014
+5,235a,High Street,Walthamstow,E17 7BH,Chaim Klein,1,1,4,1,0,4,5,5,1,0,1,1,06/04/2014
+5,84,Windsor Road,Leyton,E10 5LR,Mr Mohammed zakira,3,1,6,1,0,6,6,7,2,1,1,2,09/04/2014
+5,10,Rosebank Grove,Walthamstow,E17 6RD,Mr Petr Krizen,3,0,7,1,0,0,7,7,2,1,0,2,10/04/2014
+5,4,Gainsborough Road,Leytonstone,E11 1HT,Mr Hassan Auckburaullee,3,1,11,0,0,11,11,11,13,13,0,13,14/04/2014
+5,56,Clarendon Road,Walthamstow,E17 9AZ,Mr Aamir Safdar,3,0,5,1,0,5,5,5,3,3,0,3,16/04/2014
+5,46,Goodall Road,Leytonstone,E11 4EP,Mr Abdul Rashid,3,0,6,2,0,0,6,8,3,1,2,3,16/04/2014
+5,205-207,Hainault Road,Leytonstone,E11 1EU,Mr Ahmet Hassan,4,2,19,6,0,0,17,20,21,1,5,17,16/04/2014
+5,25,Exeter Road,Walthamstow,E17 7QJ,Mr Zaheer Hanif,3,0,5,4,0,0,5,5,5,4,5,1,22/04/2014
+5,247,Capworth Street,Leyton,E10 7AJ,Mr Mohammed Hayat,3,1,4,1,0,0,4,7,4,3,0,3,30/05/2014
+5,50,Francis Road,Leyton,E10 6PP,Mrs Shipra Pal,2,0,5,2,0,0,5,6,4,1,3,3,06/06/2014
+5,27,Verulam Avenue,Walthamstow,E17 8ES,Mr Howard Joseph,3,1,5,2,1,4,5,5,2,2,0,2,10/06/2014
+5,12,Theobald Road,Walthamstow,E17 8JQ,Mr Frankie Kontor,3,0,4,1,0,0,4,6,4,4,0,4,18/06/2014
+5,14,Kingswood Road,Leytonstone,E11 1SE,Mr Neil Curtis,3,0,6,2,0,6,6,6,2,1,0,2,27/06/2014
+5,158a,Borthwick Mews,Stratford,E15 1UA,Mr Stephen Wadey,3,0,5,1,0,0,5,5,4,2,0,4,27/06/2014
+5,49,Clarendon Road,Walthamstow,E17 9AY,Mr Amarjit Phull,3,1,7,1,0,0,7,7,3,0,3,3,30/06/2014
+5,125,Belmont Park Road,Leyton,E10 6AY,Ms Louise Thompson,2,0,6,1,0,6,6,6,6,0,6,6,30/06/2014
+5,9,Scarborough Road,Leytonstone,E11 4AL,Mr Shafiq Bashir,3,0,5,1,0,0,5,6,5,0,5,5,01/07/2014
+5,21,Fairlop Road,Leytonstone,E11 1BL,Mr Siddharth Mahajan,5,0,9,1,0,0,7,7,5,0,4,4,01/07/2014
+1,35,Fairlop Road,Leytonstone,E11 1BH,Airooj Ali,3,1,10,2,0,10,10,11,3,2,1,2,16/07/2014
+5,32,Chingford Road,Walthamstow,E17 4PJ,Mr Robert Anthony Smurthwaite,3,0,6,1,0,0,6,6,2,0,3,2,17/07/2014
+5,141,Norman Road,Leytonstone,E11 4RJ,Mr Christopher Nelson,3,1,6,1,0,0,6,6,6,6,0,6,31/07/2014
+5,88,Hatherley Road,Walthamstow,E17 6SB,Mr Asif Khan,3,1,6,2,0,6,6,10,3,1,2,3,04/08/2014
+5,98,Grove Green Road,Leytonstone,E11 4EL,Mr Geoffrey Nelson,3,1,5,1,0,0,5,5,2,0,2,2,05/08/2014
+5,99,St Marys Road,Leyton,E10 5RE,Ms Maureen Harmon,3,1,4,1,1,3,4,5,3,1,2,3,06/08/2014
+5,125a,Peterborough Road,Leyton,E10 6EL,Dorottya Sulle,3,1,5,1,0,0,5,5,2,1,1,2,06/08/2014
+5,157,Crownfield Road,Stratford,E15 2AS,Mr Leonid Titkov,3,0,6,1,0,0,4,6,2,2,2,2,08/08/2014
+5,34,Fairlop Road,Leytonstone,E11 1BN,Mr Hoiyin Ivan Hoe,3,0,7,1,0,7,6,5,2,2,0,2,08/08/2014
+5,54,Goldsmith Road,Leyton,E10 5HA,Mr Zubair Iqbal Majid,3,0,5,1,0,5,5,5,2,2,0,2,12/08/2014
+5,41,Mornington Road,Leytonstone,E11 3BE,Mr Farhat Ajaz,3,0,4,2,0,0,6,8,1,0,6,1,19/08/2014
+5,165,High Road Leyton,Stratford,E15 2BY,Mr Mohammed IIyas,3,0,6,1,0,6,6,5,2,2,0,2,04/09/2014
+5,738a,High Road Leytonstone,Leytonstone,E11 3AW,Mrs Sejpaul Niranjankumari,3,0,6,1,0,0,6,6,1,1,0,1,10/09/2014
+5,39,Boundary Road,Walthamstow,E17 8NQ,Mr Stephen Bond,3,1,6,1,0,6,6,6,6,0,6,6,10/09/2014
+5,67,Douglas Avenue,Walthamstow,E17 5BP,Michael Christopher Farquharson,3,0,5,2,0,0,4,6,2,1,1,2,10/09/2014
+5,135,The Ridgeway,Chingford,E4 6QU,Diamanto Demetriou,3,1,7,1,0,0,6,6,3,2,0,1,11/09/2014
+5,132a,High Street,Walthamstow,E17 7JS,Khaibar Adei,2,0,5,1,0,0,4,6,1,1,1,1,24/09/2014
+5,141a,High Street,Walthamstow,E17 7DB,Mr Khoaja Ahmed Sedeqi,2,1,4,1,0,4,4,4,1,1,1,1,01/10/2014
+5,12,Kingswood Road,Leytonstone,E11 1SE,Harminderpal Singh,4,1,2,2,8,0,5,5,4,4,4,15,16/10/2014
+5,106,Crownfield Road,Stratford,E15 2BG,Mr Mohammed Bostan,3,1,6,2,1,5,5,5,3,1,2,3,17/10/2014
+5,3,Ferndale Road,Leytonstone,E11 3DW,Dharmendra Patel,3,1,4,1,0,0,5,5,2,0,2,1,21/10/2014
+5,6,Thorpe Road,Walthamstow,E17 4LA,Mrs Martine Bond,3,0,6,1,0,0,6,6,6,0,5,4,22/10/2014
+5,239a,High Street,Walthamstow,E17 7BH,Chaim Klein,2,0,4,1,0,4,4,6,2,0,1,2,29/10/2014
+5,54,St Barnabas Road,Walthamstow,E17 8JY,Chris Philippou,2,0,6,1,0,6,6,12,7,0,7,7,07/11/2014
+5,34,Brunswick Street,Walthamstow,E17 9NB,Hasan Naimeul,3,0,6,1,0,0,6,8,2,1,1,2,18/11/2014
+5,216a,High Street,Walthamstow,E17 7JH,Cue Wei Zhang,3,0,7,1,0,0,7,7,7,0,7,7,18/11/2014
+5,184a,High Street,Walthamstow,E17 7JH,Mr Mazafar Iqbal,3,0,4,1,0,4,4,6,2,0,4,2,19/11/2014
+5,259a,Hoe Street,Walthamstow,E17 9PT,Mr Sharafat Ahmad,3,0,5,1,0,5,5,9,1,1,0,2,28/11/2014
+5,38,Russell Road,Walthamstow,E17 6QY,Naveed Majid,0,0,0,0,0,0,0,0,0,0,0,0,16/12/2014
+5,149,Farmer Road,Leyton,E10 5DJ,Aneil Singh,3,0,6,1,0,6,6,7,2,1,1,2,07/01/2015
+5,58,Knotts Green Road,Leyton,E10 6DE,Fazal Karim,3,0,4,1,0,4,4,6,1,1,0,2,14/01/2015
+5,72,Brooke Road,Walthamstow,E17 9HH,Mr Amarjit Phull,3,1,6,1,0,6,6,8,3,1,1,3,15/01/2015
+5,33,Hungerdown,Chingford,E4 6QJ,Eldridge Cooke,3,1,5,1,0,0,0,0,2,2,0,2,23/01/2015
+5,26,St Egberts Way,Chingford,E4 6QH,Chris Philippou,3,0,5,1,0,0,0,0,5,0,5,5,29/01/2015
+5,126,Colchester Road,Leyton,E10 6HD,Martin Freeman,3,0,5,1,0,0,5,6,5,0,5,5,29/01/2015
+5,9,The Ridgeway,Chingford,E4 6QN,Bassim Salam,4,0,6,1,0,6,0,0,3,3,0,3,29/01/2015
+5,16,Newport Road,Leyton,E10 6PJ,Piotr Fidelus,3,1,6,1,0,0,6,7,2,2,2,2,26/02/2015
+5,38,Blackhorse Road,Walthamstow,E17 7BE,Mr Earl Downer,3,2,5,2,0,5,5,10,7,1,1,2,04/03/2015
+,8,Chadwick Road,Leytonstone,E11 1NF,Ms Carol Glasgow,4,0,8,3,0,8,8,12,2,2,0,2,17/03/2015
+5,79,Fairlop Road,Leytonstone,E11 1BE,Mr Thomas O'Toole,4,1,7,1,0,7,7,10,3,3,0,3,17/03/2015
+,17,Kirkdale Road,Leytonstone,E11 1HP,Mr Ranjit Singh,3,1,8,2,0,8,8,15,5,1,3,5,17/03/2015
+5,261,Markhouse Road,Walthamstow,E17 8EE,Mr Asif Ali,3,0,6,1,0,6,6,10,2,1,1,2,19/03/2015
+5,46,Priory Avenue,Walthamstow,E17 7QP,William Marko,3,1,6,1,0,0,0,0,1,0,6,6,01/04/2015
+5,221a,High Street,Walthamstow,E17 7BH,Mr Chaim Klein,3,0,5,1,0,0,4,8,1,1,0,1,09/04/2015
+5,8,Cranbourne Road,Stratford,E15 2DB,Veronica Ojan,3,0,5,1,0,0,5,6,2,1,1,2,20/04/2015
+5,136,Drysdale Avenue,Chingford,E4 7PE,Mr Chris Philippou,3,0,6,1,0,0,0,8,6,0,6,6,20/04/2015
+5,6,Lansdowne Road,Walthamstow,E17 8QU,Mr Umar Khan,3,1,4,3,0,0,4,6,3,2,1,3,08/05/2015
+5,115,Calderon Road,Leytonstone,E11 4ET,,3,1,5,1,0,0,0,0,2,1,1,2,21/05/2015
+5,231a,High Street,Walthamstow,E17 7BH,Chaim Klein,0,0,0,0,0,0,0,0,0,0,0,0,21/05/2015
+5,87,Acacia Road,Leytonstone,E11 3PQ,,2,2,5,1,0,0,5,8,0,0,0,0,21/05/2015
+5,3,Cheltenham Road,Leyton,E10 6EU,Bobby Lipman,3,1,5,1,0,0,6,6,3,1,2,3,16/06/2015
+,85,Forest View Road,Walthamstow,E17 4EJ,Everett & Hilda Jackson,3,1,4,2,0,0,4,8,3,2,1,2,14/07/2015
+,321,Markhouse Road,Walthamstow,E17 8EE,Haroon Khan,3,1,5,1,0,0,5,7,2,1,1,2,21/07/2015
+5,5,Wilmot Road,Leyton,E10 5LT,,3,0,4,1,0,0,4,5,2,0,2,2,29/07/2015
+0,225a,High Street,Walthamstow,E17 7BH,Chaim Klein,3,0,4,1,0,0,4,5,1,1,0,1,04/08/2015
+5,37,Albert Road,Leyton,E10 6NU,Ivanna Didyk,3,2,5,1,0,0,7,8,4,1,3,4,05/08/2015
+5,9,Grove Road,Walthamstow,E17 9BL,,3,1,5,1,0,0,0,0,2,1,1,2,10/08/2015
+1,33,Colville Road,Leytonstone,E11 4EQ,Rooms 4u London Ltd,0,0,0,0,0,0,0,0,0,0,0,0,11/08/2015
+1,35,Colville Road,Leytonstone,E11 4EQ,Rooms 4u London Ltd,3,0,4,1,0,4,4,5,2,1,0,2,11/08/2015
+,37,Colville Road,Leytonstone,E11 4EQ,Rooms 4u London Ltd,3,0,4,1,0,4,4,5,2,1,0,1,11/08/2015
+1,39,Colville Road,Leytonstone,E11 4EQ,Rooms 4u London Ltd,3,0,4,1,0,4,4,5,2,1,0,1,11/08/2015
+1,41,Colville Road,Leytonstone,E11 4EQ,Rooms 4u London Ltd,3,0,4,1,0,4,4,5,2,1,0,1,11/08/2015
+5,51,Malta Road,Leyton,E10 7JT,Mr Mohammed Younis,4,0,5,1,0,5,5,8,2,1,1,2,25/08/2015
+5,15,Westbury Road,Walthamstow,E17 6RH,Paul .T. Nethercott,3,1,6,1,0,0,6,7,2,2,2,2,
+5,38,Grove Green Road,Leytonstone,E11 4EJ,Mr Andrew Attah,3,1,6,1,0,6,6,6,4,1,3,4,

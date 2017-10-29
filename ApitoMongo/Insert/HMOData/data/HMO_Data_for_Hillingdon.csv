@@ -1,0 +1,487 @@
+No,Street,Town,County,Postcode,Ward,Floors,Tenants,Lettings,DateLicensed,FeePaid,LTitle,LInitial,LSurname
+62,Abbotswood Way,Hayes,Miidx,UB3 3PQ,Townfield,2,5,5,23.10.12,£480.00,Mr,John,Ruffell
+14,Abbotts Close,Cowley,Middx,UB8 3RY,Brunel,2,6,6,19/11/2012,£480.00,Miss,Teresa,Hodgson
+82,Albert Road,Yiewsley,Middx,,Yiewsley,3,5,5,27.1.10,£480.83,Mr,Doug,Reeves
+92,Albert Road,Yiewsley,Middx, UB7 8ES,Yiewsley,2,5,5,21.3.11,£311.00,,,
+94,Albert Road,Yiewsley,Middx, UB7 8ES,Yiewsley,2,5,5,19.7.11,£405.00,,,
+6,Arklay Close,Hillingdon,Middx, UB8 3WP,Brunel,3,6,6,17.2.11,£311.00,Mr,Paul,Ouro
+57,Ashford Avenue,Hayes,Middx,,Yeading,2,6,4,30.11.07/31.01.2013,405.83/£405.00,Mr,L D,Korpal
+12,Austin Waye,Uxbridge,Middx, UB8 2QT,Uxbridge South,2,5,5,15.7.10,£405.00,Mrs,Elaine,Cole
+54,Austin Waye, Uxbridge, Middx, UB8 2RQ,Uxbridge South,2,5,5,20.7.11,£480.00,Mr,S,Blake
+21,Balmoral Drive,Hayes,Middx,UB4 0DA,Barnhill,2,5,5,19/12/2012,£311.00,Mr,K  ,Joshi
+103,Balmoral Drive,Hayes,Middx, UB4 0DB,Barnhill,2,5,4,20.3.06/21.10.11,£300.00/£405.00,Mr,B S,Rai
+123,Balmoral Drive,Hayes,Middx,UB4 0DQ,Barnhill,3,6,5,1.11.01/ 11.2.07/19.4.12/23.7.2012,£240.00/£120.00/£311.00/311.00,Mr,L,Abeysekera
+154,Balmoral Drive,Hayes,Middx,UB4 0BZ,Barnhill,3,8,5,1.11.01/ 11.2.07/19.4.12/23.5.12,£240.00/£120.00/£405.00/405.00,Mr,L,Abeysekera
+10,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,24.7.07/7.8.2012,405.83/311.00,Mr,Freddy ,North
+13,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.3.06/13.7.11,£360.00/£311.00,Mr,Freddy ,North
+16,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,10.9.07/ 08/11/12,405.83/£386.00,Mr,J,Mansour
+18,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,24.7.077.8.2012,405.83/311.00,Mr,Freddy ,North
+19,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.3.06/13.7.11,£360/£311,Mr,Freddy ,North
+20,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,7,7,15.3.06/13.7.11,£420.00,Mr,Freddy ,North
+21,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.3.06/13.7.11,£360/£311,Mr,Freddy ,North
+23,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.6.12/3.7.2012,480/480.00,Mr ,Ayoob,Bani
+22,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.3.06/12.7.11,£360/£311,Mr,Freddy ,North
+24,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,10.9.07/ 08/11/12,405.83/£386.00,Mr,J,Mansour
+25,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,10.8.07/6.11.2012,405.83/386.00,Mr,J,Mansour
+26,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,24.7.07/7.8.2012,405.83/311.00,Mr,Freddy ,North
+29,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.3.06/22.11.11/12.11.2013,£360.00/£311.00/£480.00,Mr,J,Mansour
+30,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.3.06/11.7.11,£360/£311,Mr,Freddy ,North
+31,Barchester Close,Cowley,Middx, UB8 2JY,Uxbridge South,3,6,6,15.3.06/11.7.11,£360/£405,Mr,Freddy ,North
+320,Bath Road,Harmondsworth,Middx,,Heathrow Villages,2,6,5,2.9.10,£405.00,Mr,R S ,Rajawat
+324,Bath Road,Harmondsworth,Middx,,Heathrow Villages,2,6,5,31.1.11,£480.00,Mr,G,Ellerker
+326,Bath Road,Harmondsworth,Middx,,Heathrow Villages,3,6,5,21.1.11,£480.00,Ms,L,Cardino
+7,Belgrave Mews,Cowley,Middx, UB8 3AG,Uxbridge South,2,5,5,22.11.2012,£480.00,Mr,Chet,Patel
+21,Belgrave Mews,Cowley,Middx, UB8 3AG,Uxbridge South,2,6,6,6.8.2012,£480.00,Mr & Mrs,G,Khatra
+37,Belgrave Mews, Cowley, Middx, UB8 3AG,Uxbridge South,2,6,6,2.4.2013,£405.00,Mrs ,Anita,Chaman
+7,Bell Close Road,West Drayton,Middx,UB7 9DE,West Drayton,2,6,6,20/03/2013,£405.00,Mr,S,Basra
+9,Bell Close Road,West Drayton,Middx,UB7 9DE,West Drayton,2,6,6,30.8.07/10.9.12,480.83/480.00,Mr ,R S ,Basra
+28,Bell Close Road,West Drayton,Middx,UB7 9DE,West Drayton,2,5,5,12.4.10,£480.00,Mr,Gurdaval,Nagra
+46,Bell Close Road,West Drayton,Middx,UB7 9DE,West Drayton,2,5,5,3.7.2012,£480.00,Mrs,L,Manassefi
+52,Bell Close Road,West Drayton,Middx,,West Drayton,2,6,6,15.6.10,£480.00,Mr ,Wahid,Zaman
+59,Bell Close Road,West Drayton,Middx,,West Drayton,2,5,5,5.10.11,£311.00,,,
+12,Belmore Avenue,Hayes,Middlesex,UB4 0RB,Barnhill,2,5,5,3.7.2012,£480.00,Mr,A,Siddiqi
+70,Belmore Avenue,Hayes,Middx,UB4 0RD,Barnhill,2,5,5,9.5.2012,£480.00,Mr,M,Varu
+61,Berwick Avenue,Hayes,Middx,UB4 0NQ,Yeading,2,5,5,22/01/2013,£480.00,Mr,J,Mand
+2,Bettles Close,Uxbridge,Middx,UB8 2RG,Uxbridge South,3,6,6,23.8.10,£405.00,Mr,Mark ,Reeves
+3,Bettles Close,Uxbridge,Middx,UB8 2RG,Uxbridge South,3,6,6,20.8.07/ 07.11.12,405.83/£311.00,Mr,Mark ,Reeves
+44,Blackthorne Ave,West Drayton,Middx,UB7 9EX,West Drayton,2,6,6,25.2.2013,£405.00,Mr,P ,Harris
+3,Blyth Road,Hayes,Middx,UB3 1BY,Botwell,2,5,5,29.11.2012,£311.00,Mr,S,Singh
+9,Blyth  Road,Hayes,Middx,UB3 1BY,Botwell,2,6,6,20.4.01/ 8.3.0713.6.2012,£360.00/ £180.00/480.00,Mr,S S,Dhak
+5,Blyth Road,Hayes,Middx,UB3 1BY,Botwell,2,9,5,5.1.04/21.8.2012,£300.00/£405.00,Mr,V J ,Kumar
+7,Blyth Road,Hayes,Middx,UB3 1BY,Botwell,2,8,5,15.3.02/ 20.4.07/21.8.12,£300.00/ £150.00/311.00,Mr,V J ,Kumar
+87,Blyth Road,Hayes,Middx,,Botwell,3,5,5,7.4.11,£311.00,,,
+6,Bomer Close,Sipson,Middx,,Heathrow Villages,2,5,4,16.2.12,£480.00,Mr,Andrade,Taciana
+2,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,6,6,31.10.2011,£386.00,Mr,David ,Clements
+4,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,6,6,9.4.10,£405.00,Mrs,Sophia ,Baker
+5,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,19/11/2012,£405.00,Mr,Martin,Holland
+6,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,19.7.2012,£405.00,Mr C & Mrs K,,Brazier
+7,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,6,6,15.3.06/22.11.11,£420.00/£311.00,Mr,Freddy ,North
+14,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,9.1.12,£311.00,Mr,George,Sergides
+15,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,27.4.11,£405.00,Ms,Julie,Smith
+17,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,8.3.10,£405.00,Mr,Martin,Holland
+18,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,8.3.10,£311.00,Mr,Martin,Holland
+19,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,04/04/2013,£405.00,Ms,Julie,Smith
+20,Bosanquet Close, Cowley, Middx, UB8 3PE,Brunel,2,5,5,27/02/2013,£480.00,Mr,S,Emry
+25,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,16.2.11,£480.00,Ms,Maree,Dixon
+27,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,8.3.10,£311.00,Mr,Martin,Holland
+30,Bosanquet Close, Cowley, Middx, UB8 3PE,Brunel,2,5,5,23.9.11,£480.00,Mr,Bob,Rahman
+32,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,23.5.2012,£405.00,Ms,Natalie,Szyszko
+35,Bosanquet Close,Cowley,Middx, UB8 3PE,Brunel,2,5,5,27.2.2013,£386.00,Mr,S,Embury
+84,Botwell Common Road,Hayes,Middx,UB3 1JB,Botwell,2,5,5,26/03/2013,£480.00,Mrs,Mona,Kudhail
+108,Botwell Common Road,Hayes,Middx,UB3 1JD,Botwell,2,6,6,12.4.06/12.6.2012,£300.00/£405.00,Mr,J,Kelleher
+240,Botwell Lane,Hayes,Middx,UB3 2AP,Botwell,2,5,5,9.4.10,£405.00,Mr,Steve,Evans
+1a,Bourne Circus,Hayes,Middx,UB3 1PS,Pinkwell,3,4,4,24.7.07/28.11.2012,405.83/480.00,Mr,J S ,Johal
+5,Bradenham Road,Hayes,Middx,UB4 8LP,Charville,2,6,4,12/08/2013,£405.00,Mr,S,Evans
+1,Bramble Close,Hillingdon,Middx,,Yiewsley,2,8,8,18.4.12,£480.00,Mr,,Brosnan
+17,Brandville Road,West Drayton,Middx, UB7 9DA,West Drayton,2,6,6,22.2.12,£311.00,Mr,David ,Brant
+27,Brandville Road,West Drayton, Middx, UB7 9DA,West Drayton,2,6,6,7.4.11,£311.00,,,
+24,Braybourne Close,Uxbridge,Middx, UB8 1UH,Uxbridge North,3,5,5,22.8.0721/8/2012,405.83/311.00,Ms,Natalie,Szyszko
+56,Braybourne Close,Uxbridge,Middx, UB8 1UJ,Uxbridge North,3,5,5,22.1.08/30/01/13,311.24/£311.00,Ms,Natalie,Szyszko
+78,Braybourne Close,Uxbridge,Middx, UB8 1UJ,Uxbridge North,3,5,5,22.8.07/21/8/2012,405.83/311.00,Ms,Natalie,Szyszko
+127,Braybourne Close,Uxbridge,Middx,,Uxbridge North,3,5,5,12.3.07/24.2.12,£405.83/£480.00,Mr & Mrs,,Leftley
+52,Bridge Road,Uxbridge,Middx,UB8 2QP,Uxbridge South,3,6,6,25.3.06/22.11.11,£300.00/£311.00,Mr,Freddy ,North
+24,Brookside Road,Hayes,Middx,UB4 0PH,,2,6,6,27.8.14,£480.00,Mr & Mrs,,Thakrar
+17,Bryony Close, Hillingdon, Middx, UB8 3RB,Yiewsley,2,5,5,3.10.2012,£480.00,Miss,Rachel,"Christy & Mr B O,Connor"
+24,Bryony Close, Hillingdon, Middx, UB8 3RB,Yiewsley,2,4,4,28/11/2012,£480.00,Mrs,R,Gill
+17a ,Buchan Close,Cowley,Middx,UB8 2NS,Uxbridge South,2,5,5,18.2.2013,£480.00,,,
+13,Campion Close,Hillingdon,Middx,UB8 3PY,Yiewsley,2,6,6,26.2.2008/20.2.13,480.83/405.00,Mr,David ,Benson
+29,Canarvon Drive,Harlington,Middx,,Pinkwell,2,5,5,21.3.11,£311.00,,,
+26,Candover Close,Harmondsworth,Middx,,Heathrow Villages,2,5,5,21.3.11,£405.00,,,
+27,Candover Close,Harmondsworth,Middx,,Heathrow Villages,2,5,5,21.3.11,£311.00,,,
+48,Central Avenue,Hayes,Middx,UB3 2BY,Townfield,2,6,6,22/01/2013,£405.00,,,
+51,Central Avenue,Hayes,Middx,UB3 2BY,Townfield,3,6,6,24/02/2014,£386.00,Mr,R S ,Makkar
+53,Central Avenue,Hayes,Middx,UB3 2BW,Townfield,2,8,8,12.4.06/12.6.2012,£360.00/£311.00,Mr,J,Kelleher
+67,Central Avenue,Hayes,Middx,UB3 2BP,Townfield,2,6,5,28/02/2013,£405.00,Mr,C,Bennett
+88,Central Avenue,Hayes,Middx,UB3 2BP,Townfield,2,6,6,29.5.2014,£386.00,,,
+103,Central Avenue,Hayes,Middx,UB3 2BP,Townfield,3,5,5,19.4.12,£311.00,,,
+178,Central Avenue,Hayes,Middx,UB3 2DB,Townfield,2,12,3,20.1.00/ 8.3.07/17.5.2012,£480.00/ £240.00/405.00,Mr,S,Atwal
+56,Chatsworth Road,Hayes,Middx,UB4 9EU,Barnhill,2,8,8,30.8.2012,£480.00,Mr,G,Ghattacra
+67,Chatsworth Road,Hayes,Middx,UB4 9EU,Barnhill,3,5,4,14.2.2013,£311.00,Mr,Amrik,Sangha
+2,Chelston Approach,Ruislip,Middx,HA4 9RZ,Manor,2,7,7,7.1.05/8.3.10,£420.00/£480.00,Mr,T,O'Shea
+8,Chestnut Avenue,Yiewsley,Middx, UB7 8BT,Yiewsley,2,6,6,24/07/2013,£405.00,Miss,D,Eddy
+24,Chestnut Close,Hayes,Middx,UB3 1JG,Botwell,2,6,4,8.3.10,£480.00,Mr,Harvinder,Hunjan
+26,Chiltern View Road, Uxbridge, Middx, UB8 2PF,Uxbridge South,3,6,6,9.9.10,£480.00,Mr,Mark ,Baldwin
+48,Chiltern View Road,Uxbridge,Middx, UB8 2PF,Uxbridge South,2,5,5,20.7.11,£480.00,Mrs,H,Bahia
+67,Chiltern View Road,Uxbridge,Middx, UB8 2PF,Uxbridge South,2,6,6,11.3.11,£480.00,Mr,Naveed,Ahmed
+8,Church Close,Cowley,Middx,UB8 2XG,Uxbridge South,2,6,6,1.12.2011,£480.00,Mr & Mrs,,Chander
+,Church Road,West Drayton,Middx,UB7 7PS,West Drayton,2,5,3,18.8.14,£480.00,,,
+74,Church Road,Hayes,Middx,UB3 2LL,Townfield,2,5,4,14.2.2013,£311.00,Mr ,Amrik,Sangha
+111,Church Road,Hayes,Middx,,Townfield,2,6,6,18.6.14,£311.00,Mr,K D ,Joshi
+253,Church Road,Hayes,Middx,UB3 2LQ,Townfield,2,5,6,2.2.12,£311.00,Mr,A,Luthra
+12,Clammas Way,Cowley,Middx, UB8 3AN,Uxbridge South,2,5,5,25.2.11,£405.00,Mr,Paul,Ouro
+3a,Clayton Road,Hayes,Middx,UB3 1AX,Botwell,2,5,5,15.4.2013,£480.00,Mr,S S,Grewal
+22,Cleveland Road, Uxbridge, Middx, UB8 2DR,Uxbridge South,3,6,6,24.11.09,£480.33,Mr,M,Higgins
+203,Coldharbour Lane,Hayes,Middx,UB3 3EH,Townfield,2,6,6,10.2.2014,£480.00,Mr,R S ,Makkar
+14,Coleridge Way,West Drayton,Middx,,Heathrow Villages,3,6,6,8.1.12,£386.00,Mr,Dominic,Tarrant
+60,Colham Avenue,Yiewsley,Middx, UB7 8HF,Yiewsley,2,5,5,16.11.10,£480.00,Mrs,Susan,Cattermole
+87,Collingwood Road,Hillingdon,Middx,UB8 3EL,Brunel,2,5,5,7.10.11,£480.00,Mr ,David ,Tilbury
+3,Colnbrook By-pass,Harmondsworth,Middx,UB7 0HG,Heathrow Villages,2,5,5,29.10.2012,£480.00,Mr,Kevin,Masey
+4,Colnbrook By-pass,Harmondsworth,Middx,UB7 0HG,Heathrow Villages,2,7,7,8.11.04/29.10.2012,420/£386.00,Mr,Kevin,Masey
+5,Colnbrook By-pass,Harmondsworth,Middx,UB7 0HG,Heathrow Villages,2,8,8,29.10.2012,£386.00,Mr,Kevin,Masey
+6,Colnbrook By-pass,Harmondsworth,Middx,UB7 0HG,Heathrow Villages,2,5,5,13.5.2013,£386.00,Mr,Kevin,Masey
+8,Colnbrook By-pass,Harmondsworth,Middx,UB7 0HG,Heathrow Villages,2,5,5,29.10.2012,£386.00,Mr,Kevin,Masey
+2a,Copperfield Avenue,Hillingdon,Middx,UB8 3NU,Brunel,2,6,6,12.3.10,£405.00,Mr,Thomas,Nolan
+5,Cotmans Close,Hayes,Middx,UB3 3PR,Townfield,2,5,5,06/08/2013,£386.00,Mr,Surjit,Singh
+62b,Cowley Mill Road,Uxbridge,Middx, UB8 2QD,Uxbridge South,2,5,4,16.2.11,£480.00,Mr,Ian ,Ross
+92,Cowley Mill Road,Uxbridge,Middx, UB8 2QD,Uxbridge South,2,5,5,8.3.10,£311.00,Mr,Martin,Holland
+34,Cowley Road,Uxbridge,Middx, UB8 2LU,Uxbridge South,2,6,6,3.3.99/ 21.2.07/20.11.12,£300.00/ £150.00/£311.00,Mr,George,Sergides
+48,Cowley Road,Uxbridge,Middx, UB8 2LU,Uxbridge South,3,6,6,4.3.02/ 17.5.07/22.8.2012,£360.00/£180.00/311.00,Mr,Chris,Harper& Mr D Murphy
+52,Cowley Road,Uxbridge,Middx,UB8 2LU,Uxbridge South,3,6,6,12.3.2013,£480.00,Mr,P A ,Joseph
+66,Cowley Road,Uxbridge,Middx, UB8 2LU,Uxbridge South,2,5,5,9.1.12,£405.00,Mr,George,Sergides
+226,Cowley Road,Uxbridge,Middx,UB8 2NH,Uxbridge South,2,6,5,3.12.2007/22.01.2013,480.83/£405.00,Mr,,Renaraju
+234,Cowley Road,Uxbridge,Middx, UB8 2NH,Uxbridge South,2,6,6,10.9.97/21.3.06/29.11.11,£360.00/£180.00/£386.00,Mr,Chris,Hill
+270,Cowley Road,Uxbridge,Middx,,Uxbridge South,3,6,6,31.01.2013,£480.00,Mr,Kieron,Leese
+280,Cowley Road,Uxbridge,Middx,UB8 2NJ,Uxbridge South,2,6,6,30.8.2012,£311.00,Mr,Mihir,Amin
+282,Cowley Road,Uxbridge,Middx,,Uxbridge South,2,5,5,31.1.11,£480.00,Mr & Mrs,Teresa,Elwell
+8,Cranford Drive, Harlington, Middx, UB3 4LA,Pinkwell,2,6,4,7.3.11,£480.00,Mr,P,Bagga
+44,Cranmer Road,Hayes,Middx,,Botwell,2,5,5,2.2.12,£311.00,,,
+16,Craven Close,Hayes,Middx,UB4 0SB,Barnhill,3,5,5,14.8.08/30/7/2013,480.83/480.00,Mr,S  ,Walia
+29,Craven Close,Hayes,Middx,UB4 0SB,Barnhill,2,5,5,20.2.02/ 20.2.0729.11.12,£240.00/ £120.00/311.00,Mr,S,Singh
+9,Cromwell Road,Hayes,Middx,UB3 2PP,Botwell,2,6,6,23.9.0728/11/2012,480.83/405.00,Mr,Oliver ,Reeves
+82,Cromwell Road,Hayes,Middx, UB3 2PS,Botwell,2,5,4,9.7.98/ 12.3.07/23.10.2012,£300.00/ £150.00/311.00,Mr ,B S ,Rai
+6,Curran Close,Uxbridge,Middx,UB8 2JU,Uxbridge South,3,5,5,14.3.07/22.11.12,480.83/480.00,Mrs,Anthea,Fitton
+56,Dale Drive,Hayes,Middx,UB4 8AU,Charville,2,7,7,16.4.99/ 23.2.07/10.9.12,£360.00/ £180.00/480.00,Mr P &,Mrs T,McNulty
+85,Dale Drive,Hayes,Middx,,Charville,2,6,6,11.6.03/27.10.10,£360.00/£405.00,Mr,L,Abeysekera
+5,Daleham Drive,Uxbridge,Middx,UB8 3HW,Yiewsley,2,6,6,9.7.2012,£405.00,,,
+41,Dawley Avenue, Hillingdon, Middx, UB8 3BX,Botwell,2,5,5,7.4.2011,£311.00,,,
+39,Dawley Road,Hayes,Middx,UB3 1LU,PInkwell,2,6,6,11.6.2012,£405.00,Miss,Jane Maria,O'Brien 
+52,Dawley Road,Hayes,Middx,UB3 1NB,Pinkwell,2,5,5,29.11.12,£311.00,Mr,S,Singh
+54,Dawley Road,Hayes,Middx,UB3 1NB,PInkwell,2,5,5,24.2.99/ 20.2.07/29.11.12,£300.00/ £150.00/311.00,Mr,S,Singh
+56,Dawley Road,Hayes,Middx,UB3 1NB,PInkwell,2,5,5,24.2.99/ 20.2.07/29.11.12,£300.00/ £150.00/311.00,Mr,S,Singh
+7,Delamere Road,Hayes,Middx,UB4 0NL,Yeading,2,6,5,09/05/2013,£480.00,Mrs ,M,Dhillon
+30,Delamere Road,Hayes,Middx,UB4 0NL,Yeading,2,5,5,16.3.06/25.7.11,£240/£480,Mr,M A,Choudhary
+29,Dellfield Crescent, Cowley, Middx, UB8 2ET,Uxbridge South,2,5,5,19.4.12,£311.00,,,
+80,Dellfield Crescent,Cowley,Middx, UB8 2EU,Uxbridge South,2,5,5,12.4.10,£480.00,Mr,N,Athwal
+9,Denecroft Crecent,Hillingdon,Middx,,Hillingdon East,3,5,5,25.2.10,£480.83,Mr,M,Kadir
+25,Derby Road,Uxbridge,Middx,UB8 2ND,Uxbridge South,2,5,5,23/04/2013,£480.00,Mr,H,Parmar
+28,Derby Road,Uxbridge,Middx,UB8 2ND,Uxbridge South,3,7,7,6.3.06/8.8.11,£420/£480,Mr,S,Howell
+31,Derby Road,Uxbridge,Middx, UB8 2ND,Uxbridge South,2,5,5,2.2.12,£311.00,Mr,Michael,Corcoran
+85,Dickens Avenue,Hayes,Middx,UB8 3DN,,2,5,5,7.8.2014,£480.00,Mr,David ,Tilbury
+32,Doghurst Avenue,Harlington,Middx,UB3 5BJ,Heathrow Villages,2,6,6,04.02.2013,£480.00,Mr,Mohammed,Elmansouri
+44,Doghurst Avenue,Harlington,Middx,UB3 5RT,Heathrow Villages,2,7,5,20.8.07/08.11.12,480.83/ £480.00,Mr,K,Selli
+54,Drayton Gardens,West Drayton,Middx,UB10 0BJ,West Drayton,2,6,6,30.4.10,£405.00,Mr,Hendrik,Botha
+96,Drayton Gardens,West Drayton,Middx,UB7 7LH,West Drayton,2,6,6,25/02/2013,£405.00,Mr,P,Harris
+6,Dunedin Way,Hayes,Middx,,Yeading,3,6,5,19.1.12,£386.00,Mr,Harvinder,Hunjan
+38,Dunedin Way,Hayes,Middx,UB4 9LQ,Yeading,3,6,6,20.2.2013,480/405.00,Mr,J,Dhillon
+54b,East Avenue,Hayes,Middx,,Townfield,2,5,5,12.11.01/27.11.08/3.9.14,£300.00/£480.83/£480.00,Mr,I.S,Bal
+85,East Avenue,Hayes,Middx,,Townfield,2,6,6,27.8.14,£386.00,Mr,Mandeep,Singh
+1,East Road,West Drayton,Middx,UB7 9EZ,West Drayton,2,6,6,13.9.11,£405.00,Mr,David,Brant
+102,Fairholme Crescent,Hayes,Middx,,Charville,2,5,5,7.4.11,£311.00,,,
+117,Fairholme Crescent,Hayes,Middx,,Charville,2,8,4,8.1.03/9.12.08/22.01.2013,£240.00/£405.83/£405.00,Mr,J S,Hayer
+46,Fairway Avenue,West Drayton,Middx,UB7 7AN,West Drayton,2,6,4,22.4.10,£405.00,Mr & Mrs,M,McMahon
+112,Fairway Avenue,West Drayton, Middx, UB7 7AW,West Drayton,2,6,6,07/08/2013,£311.00,Ms,D E,Eddy
+19,Falling Lane,Yiewsley,Middx,UB7 8AA,Yiewsley,2,6,6,27.4.10/ 29.01.2013,405/ £405,Mrs,Maureen,McNicoll
+5,Ferndale Crescent,Cowley,Middx, UB8 2AU,Uxbridge South,2,6,6,28.10.10,£386.00,Mrs,I,Johal
+41,Ferndale Crescent,Cowley,Middx, UB8 2AU,Uxbridge South,2,6,6,1.7.11,£480.00,Mr ,Mihir,Amin
+2,Frays Waye,Uxbridge,Middx,UB8 2RJ,Uxbridge South,3,5,4,03/04/2013,£480.00,Mr,Tony,Bhambra
+18,Furzenham Road,West Drayton,Middx,UB7 9DD,West Drayton,2,11,6,23.12.02/26.9.08/4.2.2014,£360.00/£405.83/£311.00,Mr,L,Abeysekera
+74,Gainsborough Road,Hayes,Middx,UB4 8PS,Charville,2,5,5,11.7.08,£405.83,Mr,Richard,Manzanero
+5,Glebe Road,Uxbridge,Middx, UB8 2RD,Uxbridge South,3,5,5,30.3.06/3.10.2012,300/480.00,Mr,Hemal,Radia
+8,Glebe Road,Hayes,Middx,UB3 2ED,Townfield,2,5,5,6.10.98/ 12.3.07/23.10.2012,£300.00/ £150.00/311.00,Mr,B S ,Rai
+11,Glebe Road,Hayes,Middx,,Townfield,2,6,6,18.5.99/18.2.05/21.10.11,£300.00/£270.00/£311.00,Mr,B S ,Rai
+28,Gledwood Avenue,Hayes,Middx,UB4 0AN,Barnhill,2,6,4,21.8.2012,£480.00,Mrs,H K,Bal
+41,Gledwood Drive,Hayes,Middx,UB4 0AQ,Barnhill,3,6,5,23.5.2012,£480.00,Mr,I S ,Bal
+62,Gledwood Drive,Hayes,Middx,,Barnhill,3,7,7,7.1.09,£405.83,Mr,Ken ,Turner
+58,Gledwood Gardens,Hayes,Middx,UB4 0AU,Barnhill,2,6,6,2.2.12,£311.00,,,
+35,Goshawk Gardens,Hayes,Middx,,Charville,2,10,9,13.3.06/27.6.11,£540.00/£405.00,Mr,K D ,Joshi
+30,Granville Road,Hillingdon,Middx,,Hillingdon East,3,5,5,24.11.10,£480.00,Mr,Sean,Towland
+17,Greatfields Drive,Hillingdon,Middx, UB8 3QN,Brunel,3,5,5,04/02/2013,405/£311.00,Mr,C,Brazier
+27,Greatfields Drive,Hillingdon,Middx, UB8 3QN,Brunel,3,5,5,2.1.08/22.3.2013,480.83/386.00,Mr,Ray,Hall
+28,Greatfields Drive,Hillingdon,Middx, UB8 3QN,Brunel,3,5,5,24.7.07/2.8.2012,405.83/405.00,Mr,Frank,Prall
+51,Greatfields Drive,Hillingdon,Middx, UB8 3QN,Brunel,3,5,5,10.12.07/22.3.2013,386.24/480.00,Mr,G,Austin
+68,Greatfields Drive,Hillingdon,Middx, UB8 3QW,Brunel,3,5,5,10.12.07/22.3.2013,480.83/386.00,Mr,G,Austin
+69,Greatfields Drive,Hillingdon,Middx, UB8 3QW,Brunel,3,5,5,2.1.08/13.3.13,386.24/480.00,Mr,Ray,Hall
+167,Grosvenor Avenue, Hayes, Middx, UB4 8NP,Charville,3,5,5,25.2.2013/25.2.2013,£480.00,Mrs ,Shakila,Kanada
+,Grove Lane,Uxbridge,Middx,UB8 3RG,Brunel,2,5,5,2.4.2013,£480.00,Mr,A J ,Borton
+1a,Grove Lane,Uxbridge,Middx,UB8 3RG,Brunel,2,26,26,23.7.2012,£480.00,Mr ,Amrik,Sangha
+3,Grove Way,Uxbridge,Middx,UB8 1QP,Uxbridge North,2,5,5,7.5.10,£480.00,Mr,V K ,Aggarwal
+21,Halsway,Hayes,Middx,UB3 3JS,Townfield,2,5,5,28.3.0612.6.2012,£300.00/£311.00,Mr,J,Kelleher
+47,Halsway,Hayes,Middx,UB3 3JT,Townfield,3,8,8,28.3.0612.6.2012,£420.00/£311.00,Mr,J,Kelleher
+49,Halsway,Hayes,Middx,UB3 3JT,Townfield,3,8,8,12.4.0612.6.2012,£420.00/£311.00,Mr,J,Kelleher
+55,Halsway,Hayes,Middx,UB3 3JT,Townfield,2,7,7,21.3.0612.6.2012,£420.00/£311.00,Mr,J,Kelleher
+4,Hamilton Road,Cowley,Middx,UB8 3AJ,Uxbridge South,3,6,6,8.3.10,£480.83,Mr,Gary,Khatra
+198,Harefield Road,Uxbridge,Middx,UB8 1PS,Uxbridge North,2,7,7,23.7.08/21.7.13,480.83/480.00,Mrs,M,Hall
+144,Harlington Road,Uxbridge,Middx,UB8 3EY,Brunel,2,6,6,19/12/2012,£480.00,Mr,Paul,Jones
+162,Harlington Road,Uxbridge,Middx,UB8 3HA,Brunel,2,7,7,22.11.11,£311.00,Mr,Freddy ,North
+303,Harlington Road,Uxbridge,Middx,,Botwell,2,6,6,19.4.12,£386.00,Mr,David,Clements
+31,Harmondsworth Road,West Drayton,Middx,UB7 9JP,West Drayton,2,6,6,17.5.2012,£405.00,Mr,H J ,Botha
+3,Harries Road,Hayes,Middx,UB4 9DD,Yeading,3,6,6,18.06.14,£311.00,MR,A,Bhargava
+3a,Harries Road,Hayes,Middx,UB4 9DD,Yeading,2,6,5,3.3.2014,£480.00,Mr A &,Mrs S,Bhargava
+9,Hatch Lane,Harmondsworth,Middx,UB7 0BJ,Heathrow Villages,2,6,6,31.7.2012,£480.00,Mr,Harminder,Sekhon
+38,Hatch Lane,Harmondsworth,Middx,UB7 0AZ,Heathrow Villages,2,10,10,1.11.04/28.10.10/15.5.2014,£600.00/£311.00/£311.00,Mr ,Amrik,Sangha
+23,Hayes End Close,Hayes,Middx,UB4 8HF,Charville,2,6,6,10.6.08/26/7/2013,480.83/£480.00,Mr,D,Chand
+20,Heather Lane,Yiewsley,Middx,UB7 8AW,Yiewsley,2,5,5,27.2.2013,£480.00,Mrs,Francis,Wakefield
+22,Heritage Close,Cowley,Middx,UB8 2LA,Uxbridge South,3,5,5,10.9.07/22.11.12,405.83/£480.00,Mr,J,Mansour
+6,Hesa Road,Hayes,Middx,UB3 2DP,Townfield,2,,,14/05/2013,£480.00,Mr,S S,Natt
+63B,Hewens Road,Hillingdon,Middx,UB10 0SR,Hillingdon East,2,5,5,14.2.2013,£311.00,Mr,Amrik,Sangha
+89,High Road,Ickenham,Middx,UB10 8LH,West Ruislip,3,6,3,19.1.05/22/3/2013,240/480.00,Mr,A,Mohammed
+The Beeches,High Road,Cowley,Middx,UB8 2AW,Uxbridge South,2,6,6,14.4.10,£386.00,Mr,C K ,Patel
+,High Road,Cowley,Middx,,Uxbridge South,3,18,18,14.4.10,£480.00,Mr,C K ,Patel
+,High Street,Harmondsworth,Middx,,,2,5,4,7.3.11,£480.00,Miss,A,Pang
+2,High Street,Cowley,Middx, UB8 2EE,Uxbridge South,2,5,5,4.5.10,£386.00,Mr,N,Atwal
+7a,High Street,Uxbridge,Middx,UB8 1JN,Uxbridge South,3,6,6,28.2.2013,£480.00,Mr,M,Wehbe
+303,High Street,Harlington,Middx,UB3 5DG,Heathrow Villages,2,5,5,21.3.2013,£480.00,Mr,A,Nawzil
+335,High Street,Harlington,Middx,,Heathrow Villages,2,7,7,6.11.07/15.6.11,£480.83/£480.00,Mr,Mohamed ,Al Sayari
+14a ,High Street,Harefield,Middx,,Harefield,2,6,6,8.3.10,£405.83,Ms ,Louise,Wheeler
+15a,High Street,Yiewsley,Middx,,Yiewsley,3,9,5,12.2.09,£480.83,Ms,I S,Jhalli
+1a,High Street,Cowley,Middx,,Uxbridge South,3,7,7,3.9.10/11.5.11,£311.00/£480.00,Mr,M H ,Shah
+274a,High Street,Uxbridge,Middx,UB8 1LQ,Uxbridge South,3,5,5,4.3.02/ 2.4.07/22.8.2012,£240.00/ £120.00/405.00,Mr,Chris,Harper& Mr D Murphy
+5,High Street,Yiewsley,Middx,,Yiewsley,3,5,4,2.2.12,£311.00,,,
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£405.00,Mr,D,Knox
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£311.00,Mr,D,Knox
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£311.00,Mr,D,Knox
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£311.00,Mr,D,Knox
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£311.00,Mr,D,Knox
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£311.00,Mr,D,Knox
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£311.00,Mr,D,Knox
+,High Street,Ruislip,Middx,,West Ruislip,3,9,5,11.06.00/ 22.3.06/4.1.12,£300.00/£150.00/£311.00,Mr,D,Knox
+2,Hillingdon Hill,Uxbridge,Middx,UB10 0JB,Brunel,3,6,6,11.6.2012,£311.00,Mr,Inderjeet,Singhota
+4,Hillingdon Hill,Uxbridge,Middx,UB10 0JB,Brunel,2,5,4,21.8.2012,£480.00,Mr,Thaz,Uddin
+8,Hillingdon Hill,Uxbridge,Middx,UB10 0JB,Brunel,2,6,6,3.7.2012,£480.00,Mr,R S ,Thoofer
+39,Hillingdon Hill, Hillingdon, Middx, UB10 0JF,Uxbridge North,2,6,6,8.3.10,£480.00,Mr,J,Wadhwa
+41,Hillingdon Hill,Uxbridge,Middx,UB10 0JH,Uxbridge North,2,8,8,12.4.10,£386.00,Mr,J,Wadhwa
+103A,Hillingdon Hill,Uxbridge,Middx, UB10 0JF,Uxbridge North,3,4,5,2.2.12,£311.00,Mr,P,Metha
+16,Hillingdon Road, Uxbridge, Middx, UB10 0AD,Brunel,2,6,6,20.03.2013,£311.00,Mr,Amrik,Sangha
+33,Hillingdon Road,Uxbridge,Middx,UB10 0AD,Brunel,2,13,13,15.12.08/19.12.2012,480.83/480.00,Mr,Sandeep,Bhambra
+8,Hinton Road,Uxbridge,Middx,UB8 2DL,Uxbridge South,2,6,6,6.6.11,£480.00,Mr,F,Hult
+16,Huxley Close,Uxbridge,Middx, UB8 3PG,Uxbridge South,2,5,5,21.3.11,£480.00,Mr,Sanjay,Bharadwa
+5,Keith Park Road,Uxbridge,Middx,,Uxbridge North,2,6,6,26.7.11,£480.00,Mr,David ,Clements
+17,Keith Park Road,Uxbridge,Middx,UB10 0RQ,Uxbridge North,2,6,6,25.2.13,£480.00,Mr,W,Cooper
+19,Keith Park Road,Uxbridge,Middx,UB10 0RQ,Uxbridge North,2,4,4,18.3.2013,£386.00,Mr,W,Cooper
+61,Keith Road,Hayes,Middx,,Botwell,2,5,5,10.6.11,£311.00,,,
+14,Kenilworth Gardens,Hayes,Middx,UB4 0AY,Barnhill,2,5,5,22.1.08/4.3.13,480.83/386.00,Mr,J ,Rana
+16,Kenilworth Gardens,Hayes,Middx,UB4 0AY,Barnhill,2,9,9,1.9.04/4.3.13,600/480.00,Mr,J,Rana
+266a,Kingshill Avenue,Hayes,Middx,,Charville,3,5,5,24.8.99/21.10.2011,£300.00/£480.00,Mr,L,Budd
+293,Kingshill Avenue,Hayes,Middx,,Charville,2,6,4,22.2.12,£480.00,Mr,S Z,Khan
+1,Kings Road,Uxbridge,Middx,,Uxbridge South,2,6,6,25.8.11,£368.00,Mr,Jashpal,Kanda
+5,Kingston Lane,Uxbridge,Middx, UB8 3PN,Brunel,2,6,6,30/01/2013,£386.00,Mr,R S ,Thoofer
+65,Kingsway,Hayes,Middx,,Botwell,2,6,6,18.8.10,£480.00,Mrs,S,Sandhu
+36,Langley Crescent,Harlington,Middx,,Heathrow Villages,2,5,5,1.7.10,£405.00,Mr,Bruno,Quendola
+109,Lansbury Drive,Hayes,Middx,UB4 8RP,Charville,3,6,6,08/05/2013,£311.00,Mr,K S,Chhokar
+111,Lansbury Drive,Hayes,Middx,UB4 8RP,Charville,2,6,6,08/05/2013,£405.00,Mr,Kewal,Chhokar
+43,Larch Crescent,Hayes,Middx,,Yeading,2,6,6,28.10.10,£480.00,Mr,,Malik
+81,Larch Crescent,Hayes,Middx,UB4 9EB,Yeading,3,7,7,21.8.02/8.8.07/22.8.2012,£420.00/ £480.83/386.00,Mr,J S,Hayer
+81a,Larch Crescent,Hayes,Middx,UB4 9EB,Yeading,3,10,10,22.8.2012,£480.00,Mr,J S,Hayer
+83,Larch Crescent,Hayes,Middx,UB4 9EB,Yeading,2,5,5,23.7.10,£386.00,Mr,J S,Hayer
+85,Larch Crescent,Hayes,Middx,UB4 9EB,Yeading,2,6,6,8.8.07/22.8.2012,386.24/386.00,Mr,J S,Hayer
+60,Laurel Lane,West Drayton, Middx, UB7 7TU,West Drayton,2,5,5,24.2.12,£311.00,Mr ,Mark ,Reeves
+33,Lavender Rise,West Drayton, Middx,,West Drayton,2,6,6,23.7.08,£311.24,Mr,Mark,Reeves
+14,Lavender Road, Hillingdon, Middx, UB8 3PZ,Yiewsley,2,6,6,21.3.2013,£480.00,Mr,Stuart ,Reed
+44,Lavender Road, Hillingdon, Middx, UB8 3PZ,Yiewsley,2,6,5,21.3.2013,£480.00,Miss,B A,Ghooloo
+12,Lawn Avenue, Yiewsley, Middx, UB7 7AQ,West Drayton,2,7,7,22.4.10,£480.00,Mr,Brian ,Wall
+27,Lawn Avenue,West Drayton,Middx, UB7 7AQ,West Drayton,2,7,7,23.3.06/18.4.11,£420.00/£480.00,Mr,A,Litchfield
+20,Lees Road,Hillingdon,Middx,UB8 3AS,Brunel,2,6,6,20.3.2013,£311.00,Mr,Mihir,Amin
+29,Lees Road,Hillingdon,Middx,UB8 3AS,Brunel,2,6,4,10.4.01/12.02.07/6.8.2012,£240.00/120.00/£386.00,Mr,S S,Johal
+32,Lees Road,Hillingdon,Middx,UB8 3AS,Brunel,2,9,9,7.4.11,£311.00,,,
+4,Leven Way,Hayes,Middx,UB3 2SR,Botwell,2,5,5,22.01.2013,£480.00,Mr,H,Singh Bhullar
+23,Leven Way,Hayes,Middx,,Botwell,2,5,5,13.6.11,£311.00,,,
+1,Lodge Close,Cowley,Middx,UB8 2ES,Uxbridge South,2,6,6,14.4.10,£405.00,Mr,K S,Choudhrie
+2,Lodge Close,Cowley,Middx, UB8 2ES,Uxbridge South,2,6,6,17.9.10,£386.00,Mr,Paul,Jones
+9,Lodge Close,Cowley,Middx, UB8 2ES,Uxbridge South,3,6,6,25.2.06/7.3.11,£420.00/£405.00,Mr,Freddy,North
+10,Lodge Close,Cowley,Middx, UB8 2ES,Uxbridge South,3,6,6,21.3.2013,£405.00,Mrs,Carol,North
+15,Lodge Close,Cowley,Middx, UB8 2ES,Uxbridge South,2,6,6,1.6.10,£311.00,Mr,Kuldip Singh,Choudhury
+20,Lodge Close,Cowley,Middx, UB8 2ES,Uxbridge South,2,6,6,22.4.10,£480.00,Mr,Clint ,Meddeman 
+22,Lodge Close, Cowley, Middx, UB8 2ES,Uxbridge South,2,5,5,3.2.11/21.3.2013,480£480.00,Mr,S,Mallick
+185,Long Lane, Hillingdon, Middx, UB10 0EH,Hillingdon East,3,5,5,18.4.11,£480.00,Mrs,Tracey,Carr
+2,Lonsdale Close,Hillingdon,Middx,,Botwell,2,5,5,17.2.11,£311.00,Mr,Paul,Ouro
+46a,Lothian Avenue,Hayes,Middx,UB4 0EQ,Barnhill,2,6,6,03/06/2013,£480.00,Mr,K S,Mangat
+1,Lulworth Way,Hayes,Middx,UB4 0HN,Barnhill,2,5,5,1.4.11,£480.00,Mr,S S,Johal
+3,Lulworth Way,Hayes,Middx,UB4 0HN,Barnhill,2,8,5,6.1.00/12.2.07/6.8.2012,£300.00/150.00/480.00,Mr,S S,Johal
+17,Manor Road,Hayes,Middx,UB3 2DG,Townfield,2,6,6,15/05/2013,£480.00,Mr,Surjit,Singh
+12,Maanor Road,Ruislip,Middx,HaA4 7LB,West Ruislip,3,5,5,14.5.2014,£480.00,Ms,So Heung Cinderlla,Ung
+1,Manor Waye,Uxbridge,Middx, UB8 3BD,Uxbridge North,2,5,5,31.7.14,£480.00,,,
+4,Manor Waye,Uxbridge,Middx, UB8 3BD,Uxbridge North,2,5,5,23.2.10,£480.00,Mrs ,W,Jobson
+140,Maple Road,Hayes,Middx,,Yeading,3,11,6,9.6.05/7.4.11,£360.00/£382.00,Mr,S S ,Johal
+14,Marlow Gardens,Hayes,Middx,,Pinkwell,2,5,5,2.2.12,£311.00,,,
+10,Marvell Avenue,Hayes,Middx,UB4 0QR,Barnhill,2,5,5,19/12/2012,£311.00,Mr ,K,Joshi
+36,Mayfield Close,Hillingdon,Middx, UB10 0DS,Hillingdon East,3,7,7,15.3.06/22/11/2011,£420.00/£311.00,Mr,Freddy,North
+43,Mayfield Close,Hillingdon,Middx, UB10 0DU,Hillingdon East,3,5,5,17.6.10,£405.00,Mrs,B,Fredericks
+45,Mayfield Close,Hillingdon,Middx, UB10 0DU,Hillingdon East,3,6,6,6.10.09/25.7.11,£405.83/£405.00,Mr,Pierre,Roche
+15,Maygoods Close, Cowley, Middx, UB8 3TF,Brunel,3,6,6,25.1.10,£480.00,Mrs,Julie,O'Rourke
+20,Maygoods Green,Cowley,Middx,UB8 3TG,Brunel,2,6,6,18.2.2013,£405.00,Mr,Rajkamal,Thoofer
+1a,Maylands Drive,Uxbridge,Middx,UB8 1BH,Uxbridge North,2,6,6,31.10.11,£480.00,Mr ,Terry ,Daniel
+10,Mill Avenue,Uxbridge,Middx, UB8 2QL,Uxbridge South,2,5,5,23.5.2012,£311.00,Ms,Natalie,Szyszko
+18,Mill Avenue,Uxbridge,Middx,UB8 2QL,Uxbridge South,2,5,5,15.4.2013,£405.00,Mr ,C,Phillips
+21,Mill Avenue,Uxbridge,Middx,UB8 2QL,Uxbridge South,2,6,6,15.4.01/ 12.2.07/2.5.2012,£240.00/ £120.00/480.00,Ms,R,Abbi
+17,Milton Way,West Drayton,Middx,UB7 9BJ,Heathrow Villages,2,5,5,21.1.2014,£311.00,Mr,Oliver ,Reeves
+54,Milton Way,West Drayton,Middx,,Heathrow Villages,3,6,6,22.8.11,£405.00,Mr,Dominic,Tarrant
+56,Milton Way,West Drayton,Middx,,Heathrow Villages,3,6,6,17.6.10,£405.00,Mr,Oliver ,Reeves
+30,Minet Drive,Hayes,Middx,UB3 3JN,Townfield,2,6,6,15.3.04/ 27.4.10,£300.00/£386.00,Mr,Harvinder,Hunjan
+14,Montague Road,Uxbridge,Middx, UB8 1QL,Uxbridge North,2,5,5,9.4.10,£405.00,Mr,Avtar,Singh
+29,Moorfield Road,Cowley,Middx, UB8 3SL,Brunel,3,5,5,15.3.06/20.1.2011,£300.00/£480.00,Mrs,S A,Cakebread
+2,Moray Avenue,Hayes,Middx,,Botwell,2,6,6,16.1.03/7.7.10 ,£300.00/£480.00,Mr,T S,Johal
+55,Moray Avenue,Hayes,Middx,,Botwell,2,5,5,13.6.11,£311.00,,,
+27,Mulberry Crescent,West Drayton,Middx,UB7 9AG,West Drayton,2,5,5,17.7.2012,£405.00,Mrs,C,Kanabar
+8,Myrtle Close,Hillingdon,Middx,UB7 9LL,West Drayton,2,5,5,16/03/2013,£480.00,Mr,V,Bharadwa
+26,Newcroft Close,Cowley,Middx, UB8 3RJ,Brunel,2,5,5,8.3.10,£311.00,Mr,Martin,Holland
+42,New Peachey Lane, Cowley, Middx, UB8 3SX,Brunel,2,6,6,18.2.2013,£386.00,,,
+43,New Peachey Lane, Cowley, Middx, UB8 3SX,Brunel,2,6,5,18.7.14,£480.00,Mr,,Rahman
+50,New Peachey Lane,Cowley,Middx,UB8 3SX,Brunel,2,5,5,8.3.10,£311.00,Mr,Martin,Holland
+55,New Peachey Lane,Cowley,Middx,UB8 3SY,Brunel,3,6,6,20/05/2014,£311.00,Mr,Ben,Beadle
+57,New Peachey Lane,Cowley,Middx,UB8 3SY,Brunel,2,5,5,23.7.2012,£405.00,Mr,Ben,Beadle
+99,New Peachey Lane,Cowley,Middx, UB8 3SY,Brunel,2,5,5,17.03.2010,£311.00,Mr,Martin,Holland
+14,New Road,Hillingdon,Middx, UB8 3DX,Brunel,2,4,4,24.1.05/13.6.11,£300.00/£311.00,Mr & Mrs ,M,Ram
+16,New Road,Hillingdon,Middx, UB8 3DX,Brunel,2,12,12,24.1.05/28.6.11,£780/£480,Mr & Mrs ,M,Ram
+18a,New Road,Hillingdon,Middx, UB8 3DX,Brunel,2,5,5,13.6.11,£311.00,Mr & Mrs ,M,Ram
+25,New Windsor Street,Uxbridge,Middx, UB8 2TX,Uxbridge South,3,6,6,5.3.07/20.11.12,405.83/£311.00,Mr,George,Sergides
+23/24,New Windsor Street,Uxbridge,Middx, UB8 2TX,Uxbridge South,2,12,12,6.12.00/ 28.2.07/22.11.12,£720.00/ £360.00/480.00,,,
+95,Nine Elms Avenue,Cowley,Middx, UB8 3TL,Brunel,2,6,6,20.3.2013,£311.00,Mr,Inderjeet ,Singhota
+105,Nine Elms Avenue,Cowley,Middx, UB8 3TL,Brunel,2,6,6,27.4.11,£480.00,Mrs,Shiela,Gonghia
+16,North Common Road,Uxbridge,Middx,UB8 1PD,Uxbridge North,2,6,6,9.10.07/20.2.13,480.83/£386.00,Mr ,Terry,Daniel
+178,North Hyde Road,Hayes,Middx,UB3 4NH,Pinkwell,2,5,4,20.2.2013,£311.00,Mr,Amrik,Sangha 
+1,North Road,West Drayton,Middx,,West Drayton,2,6,6,2.2.12,£311.00,,,
+13,North Way, Uxbridge, Middx, UB10 9NG,Uxbridge North,2,6,6,18.8.10,£480.00,Miss,Jennifer,Castillo
+23,Norton Road,Uxbridge,Middx,,Uxbridge South,2,6,6,2.9.11,£480.00,Mr ,Paolo,Barone
+1,Orchard Drive,Uxbridge,Middx,UB8 3AE,Uxbridge South,2,6,6,27.2.2013,£405.00,Mr,Jaspal ,Singh
+9,Orchard Waye, Uxbridge,Middx, UB8 2BN,Uxbridge North,2,5,5,27.9.11,£480.00,Mr,Subhash,Patel
+17,Orchard Waye, Uxbridge,Middx, UB8 2BN,Uxbridge North,2,5,4,14.2.2013,£311.00,Mr,Amrik,Sangha 
+22,Orchard Waye, Uxbridge,Middx, UB8 2BN,Uxbridge North,2,5,5,8.3.10,£311.00,Mr,Martin,Holland
+39,Orchard Waye, Uxbridge,Middx,UB8 2BW,Uxbridge North,2,5,5,8.3.10,£311.00,Mr,Martin,Holland
+49,Orchard Waye, Uxbridge,Middx,UB8 2BW,Uxbridge North,2,5,4,31.1.11,£480.00,Mr,Kuljit,Dhaliwal
+53,Otterfield Road,Yiewsley,Middx,UB7 8PE,Yiewsley,2,5,5,7.4.11/27.5.2014,311/£311,Mr ,Craig,Phillips
+55,Otterfield Road,Yiewsley,Middx,UB7 8PE,Yiewsley,2,5,5,13.6.11/28.2.2014,311/£386.00,Mr,E C,Parker-Bancroft
+57,Otterfield Road,Yiewsley,Middx,UB7 8PE,Yiewsley,2,6,6,2.6.11/28.2.2014,311/£480.00,Mr,E C,Parker-Bancroft
+67,Otterfield Road, Yiewsley, Middx, UB7 8PE,Yiewsley,2,6,6,4.5.10,£480.00,Mrs,Gail ,Grier
+73,Otterfield Road,Yiewsley,Middx,UB7 8PF,Yiewsley,2,5,5,13.6.2012,£311.00,,,
+83,Otterfield Road, Yiewsley, Middx, UB7 8PE,Yiewsley,2,6,6,2.6.11,£405.00,Mr,,Basra
+1,Queens Road,Uxbridge, Middx,,Uxbridge South,2,5,5,22.2.12,£480.00,Mr,T ,Alukaidey
+7,Oxford Avenue,Harlington,Middx,UB3 5HU,Heathrow Villages,2,5,6,3.8.98/21.2.07/4.4.2013,£360.00/£180.00/311.00,Mr,P S ,Gill
+,Packet Boat Lane,Cowley,Middx,UB8 2JR,Uxbridge South,2,6,6,17.1.11,£480.00,Mr ,Ronald,Sweet
+62,Park Lane,Hayes,Middx,UB4 8AB,Charville,2,5,5,19/12/2012,£405.00,Mr,K D ,Joshi
+215a,Park Road  ,Uxbridge,Middx,UB8 1NS,Uxbridge North,2,5,5,24.9.2012,£480.00,Mr,J,Grummant
+9,Park View Road,Uxbridge,Middx, UB8 3LJ,Yiewsley,2,5,5,22.4.10,£405.00,Mrs,,Bajwa
+10,Peachey Lane,Cowley,Middx, UB8 3RU,Brunel,2,6,6,27.2.2013,386,,,
+18,Pear Tree Avenue,West Drayton,Middx,UB7 8DF,Yiewsley,2,5,5,28.6.05/23/4/2013,300/480.00,Mr ,R S ,Upil
+23,Pendell Avenue,Harlington,Middx,UB3 5HH,Heathrow Villages,2,5,4,24.11.10,£480.00,Mr,Basharat,Ali
+8,Penn Close,Cowley,Middx,UB8 3AW,Uxbridge South,2,5,5,3.7.2012,£480.00,Mr,Salinda,De Zoysa
+,Pield Heath Road,Uxbridge,Middx,UB8 3NQ,Brunel,2,6,6,9.5.2012,£480.00,,Saw-Lan,Moxey
+36,Pield Heath Road,Hillingdon,Middx,UB8 3NG,Brunel,2,6,6,27/02/2013,£386.00,,M H,Shah
+191,Pield Heath Road,Hillingdon,Middx,UB8 3NR,Brunel,1,6,6,18.4.12,£386.00,Mr,Mihir,Amin
+221,Pield Heath Road,Hillingdon,Middx,UB8 3NR,Brunel,2,6,6,30.9.11,£405.00,Mr,Inderjeet,Singhota
+46,Pinglestone Close,Harmondsworth,Middx,,Heathrow Villages,2,5,4,16.2.11,£480.00,Mr,Bhagwant,Toor 
+32a ,Pinglestone Close,Harmondsworth,Middx,UB7 0DL,Heathrow Villages,2,8,7,1.10.07/5/11/2012,480.83/480.00,Mr,T,Sekhon
+1F,Pinkwell Lane,Hayes,Middx,UB3 1PD,Pinkwell,2,5,5,23/04/2013,£480.00,Mr,T K,O'Donahue
+1G,Pinkwell Lane,Hayes,Middx,UB3 1PD,Pinkwell,2,5,5,23/04/2013,£386.00,Mr,T K,O'Donahue
+115,Pole Hill Road, Hillingdon, Middx, UB10 0QD,Hillingdon East,2,6,6,4.5.10,£420.00,Mr,Paul,Jones
+48,Porters Way,West Drayton,Middx,,West Drayton,2,5,5,20.4.11,£405.00,Mr,Ali,Babahmadi
+11b,Press Road,Uxbridge,Middx,UB8 1AT,Uxbridge North,2,6,6,8.6.10,£311.00,Mr,Freddy,North
+5,Princes Park Avenue, Hayes, Middx, UB3 1LD,Botwell,3,5,5,21.4.2010,£480.00,Mr,Paul,O'Connor
+18,Princess Park Close,Hayes,Middx,,Botwell,2,5,5,1.11.04/23.7.10,£300.00/£480.00,Mr,J S,Hayer
+1,Queens Road,Uxbridge,Middx, UB8 2NN,Uxbridge South,2,5,5,22/02/2012,£480.00,Mr,Talib,Al-Ukaidey
+69,Raleigh Avenue,Hayes,Middx,UB4 0EF,Barnhill,2,5,5,10.6.2010,£480.00,Mr,Nasir,Ashraf
+16,Redmead Road,Hayes,Middx,UB3 4AU,Pinkwell,3,6,5,20.12.99/ 21.2.07/1/5/2012,£240.00/£120.00/£480.00,Mr ,P S ,Gill
+20,Redmead Road,Hayes,Middx,UB3 4AU,Pinkwell,2,5,5,22.2.07/4.4.2013,£240.00/£120.00/405.00,Mr ,P S ,Gill
+2,Robins Close,Cowley,Middx, UB8 2LF,Uxbridge South,2,6,6,30.9.2010,£480.00,Mr & Mrs ,,Cox
+4,Robins Close,Cowley,Middx, UB8 2LF,Uxbridge South,2,6,6,30.9.2010,£386.00,Mr & Mrs ,,Cox
+3,Rockingham Close,Uxbridge,Middx,UB8 2UP,Uxbridge South,3,6,6,30.4.09,£480.83,Mr,M,Duca
+24,Rockingham Road, Uxbridge, Middx, UB8 2TZ,Uxbridge South,3,5,5,14.2.2013,£405.00,Mr,Amrik,Sangha 
+25,Rockingham Road, Uxbridge, Middx, UB8 2TZ,Uxbridge South,3,5,5,14.2.2013,£311.00,Mr,Amrik,Sangha 
+26,Rockingham Road, Uxbridge, Middx, UB8 2TZ,Uxbridge South,3,5,5,14.2.2013,£311.00,Mr,Amrik,Sangha 
+27,Rockingham Road, Uxbridge, Middx, UB8 2TZ,Uxbridge South,3,5,5,14.2.2013,£311.00,Mr,Amrik,Sangha 
+28,Rockingham Road, Uxbridge, Middx, UB8 2TZ,Uxbridge South,3,5,5,14.2.2013,£311.00,Mr,Amrik,Sangha 
+40,Rowlheys Plave,West Drayton,Middx,UB7 9NQ,West Drayton,2,6,6,25.2.2013,£311.00,Mr,D,Brant
+1,Royal Lane,Yiewsley,Middx,,Yiewsley,2,6,6,17.2.11,£480.00,Mr,Amjad,Farooq
+8,Royal Lane,Yiewsley,Middx,,Yiewsley,2,5,4,2.2.12,£311.00,,,
+11,Royal Lane,Yiewsley,Middx,UB7 8DN,Yiewsley,2,5,5,3.12.12,£480.00,Mr,I S,Ghoman
+61,Royal Lane,Yiewsley,Middx,UB8 3QU,Brunel,2,5,5,4.5.11,£405.00,Mr & Mrs,,Curtin
+63,Royal Lane,Yiewsley,Middx,UB8 3QU,Brunel,2,5,5,2.8.2012,£386.00,Mr,M,Curtin
+71,Royal Lane,Yiewsley,Middx,UB8 3QT,Brunel,2,6,6,18.2.2013,£405.00,Mr,Paul,Jones
+125,Royal Lane,Uxbridge,Middx,UB8 3QS,Yiewsley,2,6,6,21.3.2006/20.6.2012,360/£405,Mr M & Mrs,R,Malik
+,Royal Lane,Yiewsley,Middx,,Yiewsley,2,5,5,25.2.11,£311.00,Mr,Paul,Ouro
+27,Ruffle Close,West Drayton,Middx,UB7 9BP,West Drayton,3,5,5,4.1.2010,£405.83,Mr,Wilfred,Meller
+27,Rutherford Close,Uxbridge,Middx, UB8 3WG,Brunel,3,6,6,21.5.08/20.2.2013,405.83/480.00,Mr,K,Patel
+36,Ryefield Avenue,Hillingdon,Middx,,Hillingdon East,3,6,6,21.4.08/19.4.12,£480.83/£311.00,Mr,M,Kadir
+209,Ryefield Avenue,Hillingdon,Middx,UB10 9DD,Hillingdon East,3,6,6,31/07/2013,£480.00,Mr,SJ,Totland
+211,Ryefield Avenue,Hillingdon,Middx,UB10 9DD,Hillingdon East,3,6,6,31/07/2013,£480.00,Mr,SJ,Totland
+27,Sanctuary Close,Harefield,Middx,,Harefield,3,6,5,17.1.12,£311.00,Ms,Louise ,Wheeler
+37,Sanctuary Close,Harefield,Middx,,Harefield,3,6,6,8.1.12,£405.00,Mr,Dominic,Tarrant
+2,Shaftesbury Way,Hayes,Middx,,Barnhill,2,5,4,16.2.11,£480.00,Mr,Jaswinder,Sandhu
+9,Sharps lane,Ruislip,Middx,HA4 7JG,West Ruislip,3,6,6,08/11/2012,£405.00,Ms,Freyar,Locke
+472,Sipson Road,West Drayton,Middx,UB7 0HZ,Heathrow Villages,2,6,6,13.05.2014,£480.00,Mr,C,Sandhu
+544,Sipson Road,West Drayton,Middlesex,UB7 0JB,Heathrow Villages,2,6,6,25/10/2012,£311.00,Mr,D,Brant
+15,South Close,West Drayton,Middx,UB7 9LS,West Drayton,2,6,6,20/05/2014,£311.00,Mr,D,Brant
+2,South Road,West Drayton,Middx,,West Drayton,2,5,5,17.6.10,£311.00,Mr,Oliver ,Reeves
+14,Spencer Avenue,Hayes,Middx,UB4 0QX,Barnhill,2,5,5,20.8.01/ 20.2.07/29.11.12,£300.00/ £150.00/405.00,Mr,S,Singh
+18,St Anselms Road,Hayes,Middx,,Botwell,2,6(5),3,21.1.00/13.3.06/27.6.11,£300/£150/£311,Mr ,K D,Joshi
+13,St Christopher Road, Cowley, Middx, UB8 3SG,Brunel,2,6,6,17.6.10,£311.00,Mr,Oliver ,Reeves
+17,St Clement Close,Cowley,Middx, UB8 3SS,Brunel,3,5,5,19.12.07/30.01.13,311.24/£311.00,Ms,Natalie,Szyszko
+73,St Clement Close,Cowley,Middx, UB8 3SS,Brunel,3,5,5,7.3.0719/11/2012,421.22/480.00,Mr,W  Hooper,& Mrs B Hooper
+81,St Clement Close,Cowley,Middx,UB8 3SS,Brunel,3,5,5,22/04/2013,£405.00,,D,McLeish
+83,St Clement Close,Cowley,Middx, UB8 3SS,Brunel,3,5,5,18/07/2013,£480.00, Mrs,C,Gill
+2,St David Close,Cowley,Middx, UB8 3SE,Brunel,2,5,5,12.4.10,£480.00,Ms,Tham,Au 
+21,St Helen Close,Cowley,Middx, UB8 3RS,Brunel,3,5,5,24.7.08/27.8.14,£480.83/£480.00,Mrs,I,Johal
+2,St Luke Close,Cowley,Middx, UB8 3SN,Brunel,2,5,5,13.6.11,£311.00,Mr,Vivek,Jain
+9,St Luke Close,Cowley,Middx, UB8 3SN,Brunel,2,5,5,1.6.10,£405.00,Ms,L,Ronayne-Belhadje
+,Station Approach,West Drayton,Middx,UB7  70Q,Yiewsley,3,11,11,11.10.11/31/7/14,£480.00/£480.00,Mr,D,Singh
+38,Station Road,Cowley,Middx, UB8 3AB,Uxbridge South,2,6,5,20.3.11/20.3.11,£300.00/£480.00,Mr,,Bosamia
+107,Station Road,West Drayton ,Middx,UB7 7JS,West Drayton,3,9,8,15.4.11,£480.00,Mr,B S ,Phull
+171,Station Road,West Drayton,Middx,,West Drayton,3,46,25,12.5.99/16.2.07,£1140.00/£570.00,Mrs,E,King
+9a,Station Road,Hayes,Middx,,Townfield,3,5,5,4.11.04/1.6.10,£300.00/£405.00,Mr,Philip,Gray
+266a ,Station Road,Hayes,Middx,,Townfield,3,6,6,9.7.14,£311.00,Mr,Amrik,Sangha 
+6,Stirling Close,Uxbridge,Middx,UB8 2BA,Uxbridge South,2,6,6,19/11/2012,£311.00,Mr,Martin,Holland
+23,Stirling Road,Hayes,Middx,,Townfield,2,6,6,19.4.12,£311.00,,,
+2a,Sutton Court Road,Hillingdon,Middx,,Hillingdon East,3,5,4,25.2.06/22.11.11,£300.00/£311.00,Mr,Freddy,North
+76,Swan Road,West Drayton,Middx,,West Drayton,2,6,6,19.7.10,£480.00,Mrs,O,Mundy
+5,Tachbrook Road,Uxbridge,Middx,,Uxbridge South,2,9,5,31.7.99/15.3.06/24.10.11,£300.00/£150.00/£405.00,Ms,Louise ,Wheeler
+14a,Tachbrook Road, Uxbridge, Middx, UB8 2QS,Uxbridge South,2,5,5,3.8.12/6.8.2012,480/480.00,Mr,S R,Alam
+15,Thackeray Close,Hillingdon,Middx, UB8 3DW,Yiewsley,2,5,5,8.10.10,£405.00,Mr,Chris,Harper
+37,The Greenway,Uxbridge,Middx, UB8 2PL,Uxbridge South,3,8,8,8.12.00/ 15.3.06/18/3/2013,£360.00/ £180.00/405.00,Mr,Chris,Harper
+39,The Greenway,Uxbridge,Middx, UB8 2PL,Uxbridge South,3,6,6,29.3.06/21.12.10,£420.00/£480.00,Mr,T,Parekesh
+52,The Greenway,Uxbridge,Middx, UB8 2PL,Uxbridge South,2,5,5,16/04/2013,£480.00,Miss,Caroline,Sanji
+68,The Greenway,Uxbridge,Middx,UB8 2PL,Uxbridge South,2,8,8,2.8.2012,£480.00,Mr,J,Kumar
+80,The Greenway,Uxbridge,Middx, UB8 2PR,Uxbridge South,2,5,6,23.5.2012,£311.00,,,
+95,The Greenway,Uxbridge,Middx,,Uxbridge South,2,5,5,7.6.11,£480.00,Mr ,Ashan,Choudhury
+101,The Greenway,Uxbridge,Middx,UB8 2PW,Uxbridge South,2,5,5,25.4.2013,£386.00,Mrs,Teresa,Hodgson
+103,The Greenway,Uxbridge,Middx,UB8 2PW,Uxbridge South,2,5,5,23/04/2013,£480.00,Mr,John,Shearme
+119,Tudor Road,Hayes,Middlx,UB3 2QF,Botwell,2,5,5,15.3.02/ 20.4.07/6/9/2012,£240.00/£120.00/311.00,Mr,J,Kumar
+2,Turnpike Lane,Uxbridge,Middx,UB10 0AH,Brunel,2,5,5,28.7.10,£480.00,Mr,,Uddin
+4,Turnpike Lane,Uxbridge,Middx,UB10 0AH,Brunel,2,5,5,30.4.10,£480.00,Mr,Simon,Wells
+,Uxbridge Road,Hillingdon,Middx,UB10 0PL,Brunel,2,6,6,7.6.11,£480.00,Mr,James,O'Neil
+123,Uxbridge Road,Hillingdon,Middx,,Uxbridge North,2,5,5,7.4.11,£311.00,,,
+523,Uxbridge Road,Hayes,Middx,,Yeading,3,18,9,5.7.11,£480.00,Ms,Meena,Tah
+547,Uxbridge Road,Hayes,Middx,UB4 8HP,Yeading,2,7,5,20.1.00/ 12.3.0723.10.2012,£180.00/ £90.00/311.00,Mr  ,B S ,Rai
+563,Uxbridge Road,Hayes,Middx,UB4 8HP,Botwell,2,6,5,17/09/2012,£480.00,Mr,M Z,Ali
+567,Uxbridge Road,Hayes,Middx,UB4 8HP,Botwell,2,6,6,13.9.05/27.2.2013,420/480.00,Mr,M,Ram
+569,Uxbridge Road,Hayes,Middx,UB4 8HP,Botwell,2,6,6,14/05/2013,£386.00,Mr,M,Ram
+605,Uxbridge Road,Hayes,Middx,UB4 8HR,Barnhill,2,20,8,2.11.1998/12.2.2007/6.8.2012,£480.00/240.00/£386.00,Mr,S S ,Johal
+608,Uxbridge Road,Hayes,Middx,,Barnhill,3,5,5,4.12.03/29/10/2010,£300.00/£405.00,Mr,H S ,Birk
+648,Uxbridge Road,Hayes,Middx,UB4 0RY,Barnhill,2,5,5,29.10.10,£311.00,Mr,Tariq,Chouhdary
+652,Uxbridge Road,Hayes,Middx,UB4 0RY,Barnhill,2,5,5,29.10.10,£405.00,Mr,Tariq,Chouhdary
+672,Uxbridge Road,Hayes,Middx,UB4 0RY,Barnhill,3,5,5,30.8.2012,£311.00,,,
+676,Uxbridge Road,Hayes,Middx,UB4 0RY,Barnhill,4,6,6,9.7.2012,£480.00,,,
+741,Uxbridge Road,Hayes,Middx,,Barnhill,2,5,5,24.11.10,£400.00,Mr,Mick,Thomas
+743,Uxbridge Road,Hayes,Middx,,Barnhill,2,5,5,24.11.10,£400.00,Mr,Mick,Thomas
+747,Uxbridge Road,Hayes,Middx,,Barnhill,2,5,5,24.11.10,£400.00,Mr,Mick,Thomas
+751,Uxbridge Road,Hayes,Middx,,Barnhill,2,5,5,24.11.10,£400.00,Mr,Mick,Thomas
+753,Uxbridge Road,Hayes,Middx,,Barnhill,2,5,5,24.11.10,£400.00,Mr,Mick,Thomas
+962,Uxbridge Road,Hayes,Middx,,Barnhill,3,5,5,10.4.03/1.6.10,£300/£480.00,Mr,R S,Randhawa
+986,Uxbridge Road,Hayes,Middx,UB4 0RL,Barnhill,2,6,6,25.10.06/24/10/2012,360/480.00,Mr,R S ,Randhawa
+1372,Uxbridge Road,Hillingdon,Middx,,Charville,2,6,6,12.9.11,£480.00,Mr,Chris,Hill
+2a,Uxbridge Road,Hillingdon,Middx, UB10 0LR,Hillingdon East,3,5,4,15.3.06/22.11.11,£300.00/£311.00,Mr,Freddy,North
+8,Violet Avenue,Hillingdon,Middx,UB8 3PP,Yiewsley,2,5,5,10.7.2013,£405.00,Mr,G,Dabhi
+36,Walford Road,Uxbridge,Middx, UB8 2NG,Uxbridge South,2,6,6,15.7.10,£311.00,Mrs,Elaine,Cole
+37,Walford Road,Uxbridge,Middx, UB8 2NG,Uxbridge South,3,6,6,24.2.11,£480.00,Mr,Damien,Knight
+12,Walnut Close,Hayes,Middx,UB3 1JH,West Drayton,3,9,9,13.6.2012,£311.00,Mr,Mark,Reeves
+129,Waltham Avenue,Hayes,Middx,,Pinkwell,2,5,5,13.6.11,£311.00,,,
+81,Warley Road,Hayes,Middx,UB4 0QE,Barnhill,2,5,4,23.9.98/ 12.3.07/23.10.2012,£300.00/ £150.00/311.00,Mr,B S,Rai
+79a,Warley Road,Hayes,Middx,UB4 0QE,Barnhill,2,5,3,9.7.98/ 12.3.0723.10.2012,£240.00/ £120.00/311.00,Mr,B S,Rai
+10,Warwick Road,West Drayton,Middx,UB7 9BZ,West Drayton,2,6,6,8.10.2008/28/2/2014,480.83/£480.00,Mr ,Lee,Diegnan
+14,Warwick Road,West Drayton,Middx,,West Drayton,3,6,6,16.7.14,£480.00,Ms,Anita,Sharma
+18,Warwick Road,West Drayton,Middx,,West Drayton,2,6,6,16.7.14,£386.00,Ms,Anita,Sharma
+154,Waterloo Road, Uxbridge, Middx, UB8 2QX,Uxbridge South,2,5,5,10/06/2013,£311.00,Mr ,C,Phillips
+2,Weald Way,Hayes,Middx,,Charville,2,9,9,5.2.99/ 11.2.04/27.6.11,£360/£360/£311,Mr,K D ,Joshi
+1,Welwyn Way,Hayes,Middx,UB4 8DX,Charville,2,6,4,03/01/2013,£480.00,,,
+20,West Drayton Road,Hillingdon,Middx,UB8 3LA,Botwell,2,5,4,26.2.13,£386.00,Miss,Teresa,Hodgson
+47,West Drayton Road,Uxbridge,Middx,UB8 3LB,Uxbridge South,2,6,6,22/01/2013,£480.00,Mr,Michael,Laryea-Bans
+183,West End Road,Ruislip,Middx,,,2,7,7,8.6.10,£480.00,,,
+69,Weymouth Road,Hayes,Middx,,Charville,2,7,4,20.3.01/13.3.06/27.6.11,£240/£120/£311,Mr,K D,Joshi
+5,Willow Tree Close,Hayes,Middx,,Yeading,2,7,7,17.7.14,£311.00,Mr,Amrik,Sangha 
+21,Wimbourne Avenue,Hayes,Middx,,Barnhill,2,5,5,3.2.05/18.11.11,£300.00/£480.00,Mrs,,Dolan
+29,Wimpole Road,West Drayton,,UB7,,3,6,5,06.06.2014,,Mrs ,Ashmi,Sidhu
+102,Windsor Avenue,Hillingdon,Middx,,Hillingdon East,3,7,5,27.8.10,£480.00,Mrs,Darshan Kaur,Kingra
+94,Wood End Green Road,Hayes,Middx,UB3 2SN,Botwell,2,6,6,19.12.2008/19.2.2014,480.83/£405.00,Mr,J S ,Hayer
+25,Worcester Road,Cowley,Middx, UB8 3TH,Brunel,2,6,6,20.3.2013,£480.00,Mrs,Julie,O'Rourke
+33,Worcester Road,Cowley,Middx, UB8 3TH,Brunel,2,5,5,19/11/2012,£311.00,Mr,Martin,Holland
+63,York Avenue,Hayes,Middx, UB3 2TW,Botwell,2,5,5,11.4.05/13.6.11,£300.00/£311.00,Mr &Mrs,,Ghattaora
+48,York Road,Northwood Hills,Middx,HA6 1JL,Northwood Hills,3,6,6,24.2.2014,£386.00,Mr,Andrew,Green
+44,Zealand Avenue,Harmondsworth,Middx,UB7 0BW,Heathrow Villages,2,6,6,25.1.05/2.5.2012,240/£405.00,Mr,Peter,Hughes
